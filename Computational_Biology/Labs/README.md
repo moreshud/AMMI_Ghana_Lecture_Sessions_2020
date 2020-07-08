@@ -9,3 +9,10 @@ Forked repository: https://github.com/tiagoantao/biopython-notebook
 
 ## Bioinformatics-with-Python-Cookbook 
 Forked repository: https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition
+
+
+## MOOC Specicalization Course
+#### Genomic Data Science Specialization
+- Link: https://www.coursera.org/specializations/genomic-data-science
+#### Essentials of Genomics and Biomedical Informatics
+* https://www.edx.org/course/essentials-of-genomics-and-biomedical-informatics
