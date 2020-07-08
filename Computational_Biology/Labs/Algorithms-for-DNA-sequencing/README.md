@@ -1,3 +1,4 @@
 # ads1-notebooks
 Copies of notebooks used in the practical sessions for Algorithms for DNA Sequencing
 # Algorithms-for-DNA-sequencing
+Forked repository: https://github.com/BenLangmead/ads1-notebooks
