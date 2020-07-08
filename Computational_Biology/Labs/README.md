@@ -3,3 +3,9 @@ This directory contains hands-on sessions from different institutions, trainings
 
 ## Algorithms-for-DNA-sequencing
 Forked repository: https://github.com/BenLangmead/ads1-notebooks
+
+## Biopython-Tutorial
+Forked repository: https://github.com/tiagoantao/biopython-notebook
+
+## Bioinformatics-with-Python-Cookbook 
+Forked repository: https://github.com/PacktPublishing/Bioinformatics-with-Python-Cookbook-Second-Edition
