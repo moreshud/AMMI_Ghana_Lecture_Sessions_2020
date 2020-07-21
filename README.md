@@ -1,37 +1,37 @@
-# AMMI_Ghana_Lecture_Sessions_2020
+# 2019/2020 African Masters in Machine Intelligence (AMMI)
 This is a repository of all taught class and practial hands-on sessions for 2019/2020 African Masters in Machine Intelligence (AMMI), Accra, Ghana.
 
-## Mathematics for Machine Learning
+### Mathematics for Machine Learning
 
-## Optimization for Machine Learning
+### Optimization for Machine Learning
 
-## Reinforcement Learning
+### Reinforcement Learning
 
-## Foundation of Machine Learning and Deep Learning
+### Foundation of Machine Learning and Deep Learning
 
-## Natural Language Processing
+### Natural Language Processing
 
-## Computer Vision
+### Computer Vision
 
-## Linear and Bayesian Regression
+### Linear and Bayesian Regression
 
-## Kernel Methods
+### Kernel Methods
 
-## AI Computational Biology
+### AI Computational Biology
 
-## Geometric Methods for Machine Learning
+### Geometric Methods for Machine Learning
 
-## Matrix Factorization
+### Matrix Factorization
 
-## AMMI, Accra 2019/2020 Bootcamp
-Link: https://github.com/wallmosh/AMMI_Bootcamp
+### AMMI, Accra 2019/2020 Bootcamp
+[Bootcamp sessions](https://github.com/wallmosh/AMMI_Bootcamp)
 
-## Series of Tutorial Sessions
+### Series of Tutorial Sessions
 
-## MOOC Specialization & Courses
+### MOOC Specialization & Courses
 
-## Acknowledgements
+### Acknowledgements
 
 
-## License
+### License
 [MIT](https://choosealicense.com/licenses/mit/)
