@@ -9,7 +9,7 @@ This is a repository of all taught class and practial hands-on sessions for 2019
 
 #### [Foundation of Machine Learning and Deep Learning](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/Foundation_Of_Machine_Learning)
 
-#### Natural Language Processing(https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/Reinforcement_Learning)
+#### Natural Language Processing(https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/Natural_Language_Processing)
 
 #### [Computer Vision](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/Deep_Computer_Vision)
 
