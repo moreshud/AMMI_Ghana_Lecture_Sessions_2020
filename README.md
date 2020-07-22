@@ -1,4 +1,4 @@
-# 2019/2020 Course Teaching Resources
+# 2019/2020 Resource Materials
 This is a repository of all taught class and practial hands-on sessions for 2019/2020 African Masters in Machine Intelligence (AMMI), Accra, Ghana.
 
 #### [Mathematics for Machine Learning](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020)
