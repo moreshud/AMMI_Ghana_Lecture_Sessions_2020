@@ -21,9 +21,9 @@ This is a repository of all taught class and practial hands-on sessions for 2019
 
 #### [Geometric Methods for Machine Learning](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Computational_Optimal_Transport)
 
-#### [Matrix Factorization](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Matrix_Factorization_Tensor_Methods)
+#### [Matrix Factorization and Tensor Methods ](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Matrix_Factorization_Tensor_Methods)
 
-#### [AMMI, Accra 2019/2020 Bootcamp](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/AMMI_Bootcamp)
+#### [AMMI, Accra 2019/2020 Bootcamp](https://github.com/wallmosh/AMMI_Bootcamp)
 
 #### [Series of Tutorial Sessions](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Tutorial_Sessions)
 
