@@ -1,3 +1,0 @@
-Records: 61
-Minimum position: 135787839
-Maximum position: 135837180

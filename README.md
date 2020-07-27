@@ -17,9 +17,9 @@ This is a repository of all taught class and practial hands-on sessions for 2019
 
 #### [Kernel Methods](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Kernel_Methods)
 
-#### [AI Computational Biology](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Computational_Biology)
+#### [AI Computational Biology](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/AI_Computational_Biology)
 
-#### [Geometric Methods for Machine Learning](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Computational_Optimal_Transport)
+#### [Computational Optimal Transport for Machine Learning](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Computational_Optimal_Transport)
 
 #### [Matrix Factorization and Tensor Methods ](https://github.com/wallmosh/AMMI_Ghana_Lecture_Sessions_2020/tree/master/Matrix_Factorization_Tensor_Methods)
 
