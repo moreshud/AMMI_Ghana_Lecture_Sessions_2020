@@ -1,0 +1,3291 @@
+CFTR CF transmembrane conductance regulator[Homo sapiens]
+Gene ID: 1080, updated on 21-Jun-2020
+
+
+SUMMARY
+-------------------------------------------------------------------------------------------------
+
+Official Symbol: CFTR (provided by HGNC)
+Official full name: CF transmembrane conductance regulator (provided by HGNC)
+Primary source: HGNC:HGNC:1884
+See related: Ensembl:ENSG00000001626; MIM:602421
+Gene type: protein coding
+RefSeq status: REVIEWED
+Organism: Homo sapiens
+
+Lineage: Eukaryota; Metazoa; Chordata; Craniata; Vertebrata; Euteleostomi; Mammalia;
+Eutheria; Euarchontoglires; Primates; Haplorrhini; Catarrhini; Hominidae; Homo
+
+Also known as: CF; MRP7; ABC35; ABCC7; CFTR/MRP; TNR-CFTR; dJ760C5.1
+
+Summary: This gene encodes a member of the ATP-binding cassette (ABC) transporter
+superfamily. The encoded protein functions as a chloride channel, making it
+unique among members of this protein family, and controls ion and water secretion
+and absorption in epithelial tissues. Channel activation is mediated by cycles of
+regulatory domain phosphorylation, ATP-binding by the nucleotide-binding domains,
+and ATP hydrolysis. Mutations in this gene cause cystic fibrosis, the most common
+lethal genetic disorder in populations of Northern European descent. The most
+frequently occurring mutation in cystic fibrosis, DeltaF508, results in impaired 
+folding and trafficking of the encoded protein. Multiple pseudogenes have been
+identified in the human genome. [provided by RefSeq, Aug 2017]
+
+Orthologsall (/gene/?Term=ortholog_gene_1080[group]), mouse (https://www.ncbi.nlm.nih.gov/gene/12638)
+
+GENOMIC CONTEXT
+-------------------------------------------------------------------------------------------------
+
+
+Location: 7q31.2
+
+Annotation release	Status	Assembly	Chromosome	Location
+-------------------------------------------------------------------------------------------------
+109.20200522	current	GRCh38.p13 (GCF_000001405.39)	7	NC_000007.14 (117480025..117668665) 
+105	previous assembly	GRCh37.p13 (GCF_000001405.25)	7	NC_000007.13 (117120017..117308719) 
+Exont count: 27
+
+
+BIBLIOGRAPHY
+-------------------------------------------------------------------------------------------------
+
+
+Related Articles in PubMed
+
+1. [Correlation between CFTR 5T polymorphisms and the risk of congenital bilateral
+absence of the vas deferens]. Zhao GG, . Zhonghua Nan Ke Xue, 2019 Mar, PMID
+32216241.
+2. Disease-relevant mutations alter amino acid co-evolution networks in the second
+nucleotide binding domain of CFTR. Ivey G, . PLoS One, 2020, PMID 31978131., Free PMC Article(s): PMC6980524
+3. ANALYSIS OF LOCAL IMMUNITY INDICATORS OF THE ORAL CAVITY AND DEGREE OF GINGIVITIS
+DEPENDING ON MUTATION OF CFTR GENE IN CHILDREN WITH CYSTIC FIBROSIS. Nazaryan R, 
+. Georgian Med News, 2019 Nov, PMID 31889700.
+4. A rare frameshift variant in trans with the IVS9-5T allele of CFTR in a Chinese
+pedigree with congenital aplasia of vas deferens. Ge B, . J Assist Reprod Genet, 
+2019 Dec, PMID 31709488., Free PMC Article(s): PMC6911126
+5. [Relationship of Cystic Fibrosis Transmembrane Conductance Regulator Expression
+with Clinical Features and Prognosis in Patients with Acute Leukemia]. Wang HF, .
+Sichuan Da Xue Xue Bao Yi Xue Ban, 2019 May, PMID 31631611.
+6. Frequency of Cystic Fibrosis Transmembrane Conductance Regulator Variants in
+Individuals Evaluated for Primary Ciliary Dyskinesia. Hannah WB, . J Pediatr,
+2019 Dec, PMID 31610925.
+<pre>
+PHENOTYPES
+-------------------------------------------------------------------------------------------------
+
+Review eQTL and phenotype association data in this region using PheGenI
+	http://www.ncbi.nlm.nih.gov/gap/PheGenI?chr=7&amp;from=117480024&amp;fromto=117480024+117668664&amp;tab=0
+
+Associated conditions
+-------------------------------------------------------------------------------------------------
+Description	Tests
+-------------------------------------------------------------------------------------------------
+
+Bronchiectasis with or without elevated sweat chloride 1
+	MedGen: C2749757 OMIM:  211400 GeneReviews: <span>Not available</span>	
+Congenital bilateral aplasia of vas deferens from CFTR mutation
+	MedGen: C0403814 OMIM:  277180 GeneReviews: Cystic Fibrosis and Congenital Absence of the Vas Deferens	
+Cystic fibrosis
+	MedGen: C0010674 OMIM:  219700 GeneReviews: Cystic Fibrosis and Congenital Absence of the Vas Deferens	
+Hereditary pancreatitis
+	MedGen: C0238339 OMIM:  167800 GeneReviews: PRSS1-Related Hereditary Pancreatitis, Pancreatitis Overview	
+Ivacaftor response
+	MedGen: CN185459 GeneReviews: <span>Not available</span>	
+
+NHGRI GWAS CatalogGenome-wide association study of prognosis in advanced non-small cell lung cancer patients receiving platinum-based chemotherapy.
+	NHGRI GWA Catalog		
+			
+			NHGRI GWA Catalog(https://www.genome.gov/gwastudies/index.cfm?pmid=22872573#result_table)
+			PubMed(/pubmed/22872573)Genome-wide data reveal novel genes for methotrexate response in a large cohort of juvenile idiopathic arthritis cases.
+	NHGRI GWA Catalog		
+			
+			NHGRI GWA Catalog(https://www.genome.gov/gwastudies/index.cfm?pmid=24709693#result_table)
+			PubMed(/pubmed/24709693)</pre>
+
+VARIATION
+-------------------------------------------------------------------------------------------------
+
+See variants in ClinVar, http://130.14.22.107/sites/gene/clinvar/?term=CFTR[gene]
+See studies and variants in dbVar, http://130.14.22.107/sites/gene
+See Variation Viewer (GRCh37.p13), http://130.14.22.107/sites/gene/variation/view/?q=1080[geneid]&amp;assm=GCF_000001405.25
+See Variation Viewer (GRCh38), http://130.14.22.107/sites/gene/variation/view/?q=1080[geneid]<pre/><pre>
+Genotypes
+	See  SNP Geneview Report, http%3A%2F%2Fwww.ncbi.nlm.nih.gov%2FSNP%2Fsnp_ref.cgi%3FlocusId%3D1080
+	See 1000 Genomes Browser (GCF_000001405.25), http://130.14.22.107/sites/gene/variation/tools/1000genomes/?q=1080[geneid]&amp;assm=GCF_000001405.25</pre>
+
+
+INTERACTION
+-------------------------------------------------------------------------------------------------
+
+Description of Gene Interaction table
+
+Product		Interactant	Other Gene    Complex	Source		Pubs
+-------------------------------------------------------------------------------------------------
+
+CFTR interacts with CANX.
+NP_000483.2    	NP_001737.1    	CANX       		BIND		PMID: 7513695
+CFTR interacts with CANX. This interaction was modeled on a demonstrated interaction between human CFTR and hamster CANX.
+NP_000483.2    	NP_001737.1    	CANX       		BIND		PMID: 15105504
+CFTR forms a homodimer
+NP_000483.2    	NP_000483.2    	CFTR       		BIND		PMID: 12933354
+Csp2 interacts with CFTR.
+NP_000483.2    	CAC15494.1     	DNAJC5     		BIND		PMID: 12039948
+Csp1 interacts with CFTR.
+NP_000483.2    	CAC15495.1     	DNAJC5     		BIND		PMID: 12039948
+PKA II interacts with and phosphorylates CFTR.
+NP_000483.2    	NP_004148.1    	PRKAR2A    		BIND		PMID: 10799517
+First PDZ domain of EBP50 binds to the C-terminus of CFTR.
+NP_000483.2    	NP_004243.1    	SLC9A3R1   		BIND		PMID: 12621035,10852925,9677412,9671706
+The second PDZ domain of E3KARP interacts with the C-terminal PDZ binding motif of CFTR.
+NP_000483.2    	AAC63061.1     	SLC9A3R2   		BIND		PMID: 10893422
+Syntaxin 1A interacts with CFTR.
+NP_000483.2    	NP_004594.1    	STX1A      		BIND		PMID: 12446681,9384384
+CFTR interacts with ATP.
+NP_000483.2    	               	           		BIND		PMID: 15619635
+P13569         	P27824         	CANX       		HPRD		PMID: 16546175,12208510
+P13569         	P13569         	CFTR       		HPRD		PMID: 12471024,11707463,11051556,10893422
+P13569         	Q9BUN8         	DERL1      		HPRD		PMID: 16901789
+P13569         	P31689         	DNAJA1     		HPRD		PMID: 10075921
+P13569         	Q9H3Z4         	DNAJC5     		HPRD		PMID: 12039948
+P13569         	P15311         	EZR        		HPRD		PMID: 10893422
+P13569         	Q9HD26         	GOPC       		HPRD		PMID: 12471024,11707463
+P13569         	Q86UT5         	PDZD3      		HPRD		PMID: 1553237
+P13569         	Q5T2W1         	PDZK1      		HPRD		PMID: 15553237,12615054,12471024,11051556
+P13569         	P30154         	PPP2R1B    		HPRD		PMID: 15936019
+P13569         	Q13131         	PRKAA1     		HPRD		PMID: 10862786
+P13569         	P17612         	PRKACA     		HPRD		PMID: 1377674
+P13569         	P13861         	PRKAR2A    		HPRD		PMID: 10799517
+P13569         	P17252         	PRKCA      		HPRD		PMID: 1377674
+P13569         	Q02156         	PRKCE      		HPRD		PMID: 11956211
+P13569         	P14619         	PRKG1      		HPRD		PMID: 1377674
+P13569         	Q99942         	RNF5       		HPRD		PMID: 16901789
+P13569         	Q9Y6M7         	SLC4A7     		HPRD		PMID: 12403779
+P13569         	Solute carrier family 4, member 8	SLC4A8     		HPRD		PMID: 12403779
+P13569         	O14745         	SLC9A3R1   		HPRD		PMID: 15553237,11158634,10852925,9677412,9613608
+P13569         	Q15599         	SLC9A3R2   		HPRD		PMID: 15553237,10893422,9671706
+P13569         	Q92581         	SLC9A6     		HPRD		PMID: 11707463
+P13569         	O00161         	SNAP23     		HPRD		PMID: 12209004
+P13569         	Q16623         	STX1A      		HPRD		PMID: 9384384
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106524 	A2M        		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106534 	AARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121569 	AARS2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117020 	ABCB10     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106540 	ABCB7      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116364 	ABCB8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124474 	ABCC11     		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:115551 	ABCC4      		BioGRID		PMID: 18045536
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106555 	ACADVL     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106563 	ACLY       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108477 	ACSL3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108478 	ACSL4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106602 	ACTN1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106603 	ACTN2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106604 	ACTN3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106596 	ACTN4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115425 	ACTR1A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115403 	ACTR3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121429 	ACTR3B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112731 	ADAM17     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106627 	ADCY8      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116235 	ADRM1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120868 	AGK        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106696 	AHCY       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122494 	AHNAK      		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:115846 	AHSA1      		BioGRID		PMID: 26618866,18556464,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114579 	AIFM1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114679 	AIMP1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114958 	AKAP12     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114857 	AKAP6      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106721 	ALDH1B1    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106728 	ALDOA      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121033 	ALG1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106743 	ALOX12B    		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:106764 	AMFR       		BioGRID		PMID: 26618866,19828134,18216283
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124582 	ANKRD13A   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106798 	ANXA1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106803 	ANXA3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106805 	ANXA5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106671 	AP1B1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106821 	APC        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121397 	APMAP      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106867 	ARCN1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106873 	ARF4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106893 	ARL1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119477 	ARL6IP4    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115402 	ARPC1B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115415 	ARPC2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115400 	ARPC4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123617 	ARPC5L     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120506 	ATAD3A     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106977 	ATP2A1     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106978 	ATP2A2     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106979 	ATP2A3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106980 	ATP2B1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106983 	ATP2B4     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106987 	ATP5F1A    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106994 	ATP5F1B    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114923 	ATP5MF     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115876 	ATP5MG     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115739 	ATP5PD     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107021 	ATP5PO     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117343 	ATXN10     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116429 	ATXN2L     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107031 	AUP1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198122 	Ap1b1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198156 	Apoa2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198187 	Arf4       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:207277 	Atp2a3     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198261 	Atp6v1a    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107044 	B2M        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124240 	B3GNT9     		BioGRID		PMID: 17110338
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:107049 	BAG1       		BioGRID		PMID: 23178238
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114908 	BAG2       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114907 	BAG3       		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:115437 	BCAP31     		BioGRID		PMID: 18555783
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107083 	BCR        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107111 	BLMH       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107147 	BSG        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:205891 	Bag3       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107169 	C1QBP      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:139295 	C1orf68    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107179 	C3         		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107243 	CAD        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:125640 	CALHM3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107252 	CALM1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107256 	CALM2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107259 	CALM3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107261 	CALML3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107262 	CALR       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107263 	CALU       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120937 	CAND1      		BioGRID		PMID: 17110338
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:107271 	CANX       		BioGRID		PMID: 26618866,18716059,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115750 	CAP1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107274 	CAPN2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107279 	CAPZA1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107280 	CAPZA2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107282 	CAPZB      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107281 	CAST       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107297 	CAT        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107305 	CAV1       		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:107315 	CBL        		BioGRID		PMID: 27261451,22467879,20525683
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107319 	CBR1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121775 	CCAR2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122831 	CCDC51     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:127410 	CCDC80     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115827 	CCT2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113054 	CCT3       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115826 	CCT4       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116603 	CCT5       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115933 	CCT8       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107404 	CD59       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116312 	CDC37      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107434 	CDH1       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107436 	CDH3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115193 	CEP170     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107499 	CFL1       		BioGRID		PMID: 17110338
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:107506 	CFTR       		BioGRID		PMID: 26618866,17110338,11051556
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107569 	CHUK       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121687 	CIP2A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:139227 	CKMT1A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107579 	CKMT1B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107593 	CLCA1      		BioGRID		PMID: 17110338
+Reconstituted Complex
+BioGRID:107506 	BioGRID:107596 	CLCN3      		BioGRID		PMID: 12471024
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107604 	CLIC1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115038 	CLINT1     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107619 	CLPTM1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107621 	CLTA       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107623 	CLTC       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113854 	CLTCL1     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107665 	CNN2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121575 	COG6       		BioGRID		PMID: 26618866
+Affinity Capture-Western; Co-localization
+BioGRID:107506 	BioGRID:127317 	COMMD1     		BioGRID		PMID: 21483833
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107709 	COPA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107710 	COPB1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114693 	COPB2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116447 	COPE       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116496 	COPG1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117926 	COPG2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114418 	CPNE1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107821 	CSE1L      		BioGRID		PMID: 17110338
+Synthetic Lethality
+BioGRID:107506 	BioGRID:107832 	CSK        		BioGRID		PMID: 29987050
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107857 	CSTA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107858 	CSTB       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107870 	CTBP2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107876 	CTNNA1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107880 	CTNNB1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107883 	CTPS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107889 	CTSD       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198460 	Calu       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198473 	Capns1     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:207501 	Caprin1    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198568 	Cct5       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198626 	Cdc37      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198631 	Cdh1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:247942 	Cfl1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198685 	Cfl2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:225874 	Cse1l      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116648 	DAAM1      		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:107971 	DAB2       		BioGRID		PMID: 20351096,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113587 	DAP3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107984 	DARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117730 	DAZAP1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107995 	DBN1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118809 	DBNL       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114635 	DCLK1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108007 	DCTN1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115794 	DCTN2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108017 	DDOST      		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:122559 	DERL1      		BioGRID		PMID: 26618866,18555783,16954204,16901789
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119216 	DERL2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108038 	DES        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108087 	DLST       		BioGRID		PMID: 26618866
+Affinity Capture-Luminescence; Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:109534 	DNAJA1     		BioGRID		PMID: 26618866,17110338,11146634,10075921
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115582 	DNAJA2     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:109569 	DNAJB1     		BioGRID		PMID: 26618866,10075921
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120150 	DNAJB12    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109533 	DNAJB2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115360 	DNAJB6     		BioGRID		PMID: 26618866
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:123242 	DNAJC5     		BioGRID		PMID: 16857740,12039948
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108122 	DNM2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114340 	DPM1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108157 	DSC1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108166 	DSP        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116223 	DSTN       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119582 	DTL        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120165 	DYM        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108117 	DYNC1H1    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108120 	DYNC1LI2   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249221 	Dnaja1     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:219986 	Dnaja3     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198891 	Dpysl2     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:248131 	Dync1h1    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116166 	EBNA1BP2   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115718 	ECI2       		BioGRID		PMID: 26618866
+Co-fractionation
+BioGRID:107506 	BioGRID:113999 	EEA1       		BioGRID		PMID: 23686137
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108253 	EEF1B2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108258 	EEF2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108276 	EGFR       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116138 	EHD1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114407 	EIF2B4     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114210 	EIF3A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109857 	EIF3E      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114214 	EIF3F      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114217 	EIF3I      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118148 	EIF3K      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119516 	EIF3L      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115743 	EIF3M      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108299 	EIF5A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112785 	ELOB       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112783 	ELOC       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115046 	EMC2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108325 	EMD        		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108338 	ENO1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110250 	EPCAM      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123666 	EPPK1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108372 	EPRS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108373 	EPS8       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119713 	ERAP1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120997 	ERBIN      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108390 	ERH        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115859 	ERLIN1     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116331 	ERLIN2     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116927 	ESYT1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121556 	ESYT2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121906 	EXOC4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116867 	EXOC7      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:127206 	EXOC8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:125608 	EXOSC6     		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:113271 	EZR        		BioGRID		PMID: 26618866,10893422
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249109 	Eloc       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:211681 	Emc2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:248212 	Esyt1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108469 	FABP5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116806 	FAF2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116805 	FAM120A    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123936 	FAR1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108487 	FARSA      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108488 	FASN       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116656 	FBXO21     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108564 	FHL1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108565 	FHL2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117270 	FKBP8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:132815 	FLG2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108603 	FLII       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108606 	FLNB       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108608 	FLOT2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112508 	FSCN1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108773 	FTH1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249814 	Fat1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249241 	Fat2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:199622 	Fcna       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:199689 	Fkbp8      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108857 	GALK1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116802 	GANAB      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108887 	GARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108909 	GCDH       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108932 	GDI1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108933 	GDI2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108941 	GFPT1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122486 	GGCT       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109001 	GLO1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118967 	GMPPA      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109029 	GNA11      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109033 	GNAI2      		BioGRID		PMID: 17110338
+Affinity Capture-Western; Reconstituted Complex; Two-hybrid
+BioGRID:107506 	BioGRID:121384 	GOPC       		BioGRID		PMID: 12471024,11707463
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109082 	GPI        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114514 	GPRC5A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109153 	GRN        		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123210 	GRPEL1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:129762 	GSDMA      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109189 	GSN        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249562 	Gna11      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:246572 	Grik5      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249882 	Grip1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114461 	H1-10      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119570 	HACD3      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115719 	HAX1       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109316 	HDAC2      		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:115330 	HDAC6      		BioGRID		PMID: 22069321,14675537
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109378 	HLA-E      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109379 	HLA-F      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109424 	HNRNPC     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110751 	HNRNPM     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116281 	HNRNPUL1   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109500 	HPX        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:132814 	HRNR       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119328 	HSD17B12   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109528 	HSD17B4    		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:109552 	HSP90AA1   		BioGRID		PMID: 18556464,17272822,17110338,10982807
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109558 	HSP90AB1   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113036 	HSP90B1    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:131255 	HSP90B3P   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109535 	HSPA1A     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109536 	HSPA1B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109537 	HSPA1L     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109538 	HSPA2      		BioGRID		PMID: 17110338
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:109540 	HSPA4      		BioGRID		PMID: 26618866,19098309,18716059,18556464,17272822
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116500 	HSPA4L     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109541 	HSPA5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109542 	HSPA6      		BioGRID		PMID: 17110338
+Affinity Capture-Luminescence; Affinity Capture-MS; Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:109544 	HSPA8      		BioGRID		PMID: 26618866,23990462,21697503,17272822,17110338,16857740,15611333,11146634,10982807,10666020,10075921
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109545 	HSPA9      		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:109547 	HSPB1      		BioGRID		PMID: 26627832,26618866,23155000,17110338
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:109548 	HSPB2      		BioGRID		PMID: 23155000
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109561 	HSPD1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109568 	HSPE1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116022 	HSPH1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115385 	HUWE1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115780 	HYOU1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:200454 	Hsp90ab1   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:248845 	Hspa2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:200078 	Hspa5      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:200457 	Hspa9      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:200448 	Hsph1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109605 	IARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109610 	ICAM1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109644 	IDH2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109645 	IDH3A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109646 	IDH3B      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115888 	IGF2BP2    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115887 	IGF2BP3    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113605 	IL1R2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116313 	IL1RAPL1   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116185 	IMMT       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109828 	IMPDH2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119368 	IPO11      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122828 	IPO4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110041 	IPO5       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115782 	IPO7       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115781 	IPO8       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120830 	IPO9       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126102 	IQGAP3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114048 	IRS4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114995 	ISG15      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123747 	ITCH       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109880 	ITGA2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109882 	ITGA3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109894 	ITGB1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109897 	ITGB4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109904 	ITIH2      		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:109919 	JAK1       		BioGRID		PMID: 27261451
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:119590 	JKAMP      		BioGRID		PMID: 19269966
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:109960 	KCNJ1      		BioGRID		PMID: 14604981
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116145 	KDELR1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116204 	KDELR2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114139 	KHSRP      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116300 	KIF3A      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110000 	KIF5B      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110001 	KIF5C      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116652 	KLHDC10    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124308 	KLHL22     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110036 	KPNA2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117163 	KPNA6      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110035 	KPNB1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:138665 	KPRP       		BioGRID		PMID: 26618866
+Proximity Label-MS
+BioGRID:107506 	BioGRID:110043 	KRAS       		BioGRID		PMID: 30639242
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110073 	KRT18      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117467 	KRT23      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110081 	KRT33A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110053 	KRT7       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126715 	KRT72      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126858 	KRT80      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:200960 	Klc1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:200654 	Kpnb1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110105 	LAMA5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110108 	LAMB3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110110 	LAMP1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115599 	LANCL1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110131 	LDHA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:127750 	LDHAL6A    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110137 	LDHB       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110149 	LGALS3     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110150 	LGALS3BP   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110151 	LGALS4     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119559 	LIMA1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116645 	LIMCH1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120608 	LIN7C      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116159 	LMAN2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110186 	LMNA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110187 	LMNB1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124281 	LMNB2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110193 	LMO7       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122973 	LPCAT1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107423 	LRBA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115432 	LRPPRC     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114643 	LRRFIP2    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110235 	LTF        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117509 	LTN1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:211164 	Lima1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:201176 	Lmna       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110304 	MAP1B      		BioGRID		PMID: 26618866
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:119413 	MARCHF2    		BioGRID		PMID: 27308891,23818989
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110257 	MARCKS     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122395 	MARCKSL1   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110311 	MARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110314 	MAT2A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110327 	MC1R       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110339 	MCM2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110341 	MCM4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110343 	MCM6       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110344 	MCM7       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110356 	MDH2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116804 	MDN1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115293 	MED12      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110384 	MEN1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122103 	MMS19      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110484 	MOV10      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116776 	MPRIP      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123973 	MRI1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122369 	MRPL11     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122363 	MRPL41     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116091 	MRPS30     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122120 	MS4A5      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110584 	MSN        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110622 	MTHFD1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:108757 	MTOR       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121177 	MUC13      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115286 	MVP        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110684 	MX1        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110685 	MX2        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110704 	MYH1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110713 	MYH10      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110714 	MYH11      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114272 	MYH13      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122884 	MYH14      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110705 	MYH2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110706 	MYH3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110707 	MYH4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110709 	MYH6       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110710 	MYH7       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121681 	MYH7B      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110711 	MYH8       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110712 	MYH9       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115871 	MYL12A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110721 	MYL6       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115670 	MYL9       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:134384 	MYO18A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110724 	MYO1A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110567 	MYO1B      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110725 	MYO1C      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110726 	MYO1D      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122031 	MYO1G      		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:110730 	MYO6       		BioGRID		PMID: 26618866,20351096
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:201586 	Map4       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:215214 	Mms19      		BioGRID		PMID: 17110338
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:261163 	Myo6       		BioGRID		PMID: 20351096
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110754 	NAP1L1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115246 	NCAPD2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122089 	NCAPG      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116970 	NCAPH      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110766 	NCBP1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116578 	NCBP2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121608 	NCEH1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110784 	NDUFA9     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110799 	NDUFS1     		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:110811 	NEDD4      		BioGRID		PMID: 25384981,19617352
+Reconstituted Complex
+BioGRID:107506 	BioGRID:110875 	NHS        		BioGRID		PMID: 14595111
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110894 	NME1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121509 	NMRAL1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119021 	NOP53      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114897 	NPEPPS     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121183 	NRIP3      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124011 	NTPCR      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116831 	NUP210     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124684 	OTULIN     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111072 	P4HA1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111073 	P4HB       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117939 	PABPC1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123246 	PABPC1L    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111079 	PABPC3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114296 	PABPC4     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126753 	PABPC5     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116446 	PARK7      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111108 	PAWR       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111127 	PCBP2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119851 	PCBP3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121068 	PCDHB8     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119622 	PCF11      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111141 	PCMT1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115333 	PDCD6      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109180 	PDIA3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114966 	PDIA4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115434 	PDIA6      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116681 	PDXDC1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114135 	PDXK       		BioGRID		PMID: 26618866
+Reconstituted Complex
+BioGRID:107506 	BioGRID:122940 	PDZD3      		BioGRID		PMID: 12615054
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:111200 	PDZK1      		BioGRID		PMID: 18045536,12471024,11051556
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111232 	PFKL       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111237 	PFN1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111244 	PGAM1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111245 	PGAM2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:137555 	PGAM4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111251 	PGK1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116068 	PGRMC1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115693 	PGRMC2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111264 	PHB        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117618 	PHGDH      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115200 	PJA2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111327 	PKD1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111332 	PKM        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117173 	PLD3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111355 	PLEC       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116541 	PLEKHA6    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123048 	POF1B      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111430 	POLR2E     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111460 	PPA1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111475 	PPIB       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110742 	PPP1R12A   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111507 	PPP2CA     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111508 	PPP2CB     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111510 	PPP2R1A    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111511 	PPP2R1B    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111512 	PPP2R2A    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111513 	PPP2R2B    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120946 	PPP2R2D    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120579 	PPP6R3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111089 	PRDX1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112860 	PRDX2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114956 	PRDX6      		BioGRID		PMID: 26618866
+Biochemical Activity; Reconstituted Complex
+BioGRID:107506 	BioGRID:111549 	PRKAA1     		BioGRID		PMID: 20861072,10862786
+Biochemical Activity
+BioGRID:107506 	BioGRID:111553 	PRKACA     		BioGRID		PMID: 17272822
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:111567 	PRKCE      		BioGRID		PMID: 11956211
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111575 	PRKCSH     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111577 	PRKDC      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120347 	PRPF39     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116822 	PRRC2C     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111639 	PSAP       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111655 	PSMA1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111656 	PSMA2      		BioGRID		PMID: 26618866
+Affinity Capture-MS; Co-purification
+BioGRID:107506 	BioGRID:111657 	PSMA3      		BioGRID		PMID: 26618866,16390870
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111658 	PSMA4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111659 	PSMA5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111660 	PSMA6      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111661 	PSMA7      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126804 	PSMA8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111662 	PSMB1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111663 	PSMB2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111664 	PSMB3      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111665 	PSMB4      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111666 	PSMB5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111669 	PSMB8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111674 	PSMC2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111675 	PSMC3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111677 	PSMC4      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111678 	PSMC5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111679 	PSMC6      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111680 	PSMD1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111689 	PSMD11     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111690 	PSMD12     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115508 	PSMD14     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111681 	PSMD2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111682 	PSMD3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111683 	PSMD4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111685 	PSMD7      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111686 	PSMD8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111693 	PSME2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120366 	PTCD3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114912 	PTGES      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115952 	PTGES3     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111724 	PTMA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111773 	PURB       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113596 	PXDN       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111792 	PYGB       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111794 	PYGL       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111796 	PZP        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198282 	Pcdh15     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202048 	Pcmt1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202082 	Pde8a      		BioGRID		PMID: 17110338
+Affinity Capture-MS; Affinity Capture-Western; Protein-peptide
+BioGRID:107506 	BioGRID:208488 	Pdzk1      		BioGRID		PMID: 11051556
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:247169 	Pld2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202342 	Ppp2cb     		BioGRID		PMID: 17110338
+Two-hybrid
+BioGRID:107506 	BioGRID:249325 	Prkaa1     		BioGRID		PMID: 10862786
+Biochemical Activity
+BioGRID:107506 	BioGRID:249382 	Prkaa2     		BioGRID		PMID: 16844684
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202416 	Psma2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204993 	Psma5      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202418 	Psmb1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204997 	Psmb3      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202428 	Psmc3      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:207917 	Ptges3     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111797 	QARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117329 	QPCT       		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:114299 	RAB11A     		BioGRID		PMID: 19398555
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119605 	RAB14      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116591 	RAB18      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111803 	RAB3B      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117317 	RAB3GAP2   		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:111806 	RAB5A      		BioGRID		PMID: 26618866,19398555
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111807 	RAB5B      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111816 	RAB5C      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111818 	RAC2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115671 	RACK1      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111837 	RAN        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111838 	RANBP1     		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111839 	RANBP2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111852 	RARS1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:127651 	RASEF      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111863 	RBBP4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111887 	RCN1       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111888 	RCN2       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111894 	RDX        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124433 	REPS1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111914 	RFC2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111917 	RFC5       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:134847 	RGPD1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:610251 	RGPD2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:130039 	RGPD4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120576 	RHOT1      		BioGRID		PMID: 17110338
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:124834 	RNF185     		BioGRID		PMID: 24019521
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:111975 	RNF5       		BioGRID		PMID: 21594788,19269966,16901789
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111977 	RNH1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112054 	RPL10      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:110813 	RPL10A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114507 	RPL14      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112058 	RPL15      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112064 	RPL21      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112071 	RPL24      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112077 	RPL28      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112042 	RPL3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112080 	RPL32      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112083 	RPL34      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112084 	RPL35A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117388 	RPL36      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112087 	RPL37A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112045 	RPL5       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112049 	RPL7       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112052 	RPL8       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112094 	RPLP0      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112095 	RPLP1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112096 	RPLP2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112099 	RPN1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112120 	RPS12      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112121 	RPS13      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112123 	RPS15      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112155 	RRM2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119650 	RTRAF      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114166 	RUVBL1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116067 	RUVBL2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112171 	RYK        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112174 	RYR2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112175 	RYR3       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:199978 	Rack1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:202839 	Rcn1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:205029 	Rcn2       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:208024 	Ruvbl1     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:203037 	Ruvbl2     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112186 	S100A7     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112187 	S100A8     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112188 	S100A9     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:203055 	S100a6     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:125228 	SAAL1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116572 	SACM1L     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115366 	SAE1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117436 	SAMHD1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121186 	SAR1A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119672 	SARAF      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115377 	SCAMP2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117060 	SCRIB      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112290 	SDHA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115247 	SEC16A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115747 	SEC23A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115746 	SEC23B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114991 	SEC24C     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118968 	SEC61A1    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120475 	SEC61A2    		BioGRID		PMID: 17110338
+Affinity Capture-Western; Co-localization; Reconstituted Complex
+BioGRID:107506 	BioGRID:120934 	SELENOS    		BioGRID		PMID: 29555962
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120870 	SEPTIN11   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116770 	SEPTIN6    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107425 	SEPTIN7    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116015 	SEPTIN9    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111283 	SERPINA1   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124597 	SERPINB12  		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:106953 	SERPINC1   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107318 	SERPINH1   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116188 	SF3B2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:109072 	SFN        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:125107 	SFXN1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123605 	SFXN3      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123733 	SH3BGRL2   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115569 	SIGMAR1    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112391 	SKP1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112454 	SLC16A1    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:107850 	SLC25A10   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113990 	SLC25A11   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114164 	SLC25A12   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115467 	SLC25A13   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118993 	SLC25A24   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111269 	SLC25A3    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123649 	SLC25A31   		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:114876 	SLC4A7     		BioGRID		PMID: 12403779
+Affinity Capture-MS; Affinity Capture-Western; Protein-peptide; Reconstituted Complex
+BioGRID:107506 	BioGRID:114769 	SLC9A3R1   		BioGRID		PMID: 26618866,17110338,12615054,12471024,12403779,10852925,9677412,9671706,9613608
+Affinity Capture-MS; Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:114754 	SLC9A3R2   		BioGRID		PMID: 26618866,17110338,10893422
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123624 	SLIRP      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112485 	SMARCC2    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115362 	SMC4       		BioGRID		PMID: 26618866
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:114303 	SNAP23     		BioGRID		PMID: 12209004
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112510 	SNRPA      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123546 	SNX27      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114262 	SNX4       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119535 	SNX9       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:125367 	SORCS1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112536 	SORL1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:127927 	SPATA5     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116960 	SPECC1L    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112577 	SPRR1B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112587 	SPTAN1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112589 	SPTBN1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115809 	SPTLC1     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114894 	SPTLC2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121806 	SQOR       		BioGRID		PMID: 17110338
+Affinity Capture-Western; Co-fractionation; Co-localization
+BioGRID:107506 	BioGRID:114397 	SQSTM1     		BioGRID		PMID: 23686137,20711182
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112605 	SRP14      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115544 	SRRM1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114231 	SRSF9      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112620 	SSBP1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112623 	SSR1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112626 	SSR4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112657 	STAU1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119062 	STOML2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116342 	STRAP      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120623 	STRBP      		BioGRID		PMID: 26618866
+Affinity Capture-Western; Biochemical Activity
+BioGRID:107506 	BioGRID:115563 	STUB1      		BioGRID		PMID: 21898230,19098309,19056735,15611333,15215316,11146634
+Affinity Capture-Western; Reconstituted Complex
+BioGRID:107506 	BioGRID:112676 	STX1A      		BioGRID		PMID: 12209004,9384384
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114331 	SUCLA2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114329 	SUCLG2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112703 	SURF4      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112707 	SVIL       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:207315 	Sec61a1    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204863 	Septin3    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:208037 	Septin6    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:205229 	Shroom3    		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:205077 	Slc9a3r1   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:248735 	Slc9a3r1   		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204880 	Sra1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:203539 	Stip1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112744 	TAF10      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113995 	TAGLN2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112754 	TAP2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117003 	TARDBP     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123188 	TARS2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114405 	TAX1BP1    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122296 	TBC1D15    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116696 	TBC1D9B    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114900 	TECR       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117572 	TES        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112876 	TF         		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:112878 	TFAP2A     		BioGRID		PMID: 20351096
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115624 	TFG        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112910 	TGM2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112911 	TGM3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121972 	THADA      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119484 	THEM6      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112930 	TIAM1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124961 	TIMM50     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118025 	TJP3       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112941 	TKT        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114776 	TM9SF2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121219 	TM9SF3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120960 	TMEM165    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120462 	TMEM33     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120575 	TMEM40     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122601 	TMEM43     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118900 	TMOD2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118899 	TMOD3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124540 	TNKS1BP1   		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117080 	TNPO3      		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116735 	TNRC6B     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122272 	TNS3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113006 	TOP2A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120213 	TOR4A      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113010 	TP53       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113011 	TP53BP1    		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113020 	TPI1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113021 	TPM1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113022 	TPM2       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113024 	TPM4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113028 	TPR        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116112 	TRAFD1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:112615 	TRIM21     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115457 	TRIM28     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:117177 	TRIM29     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124491 	TRIM5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114731 	TRIP12     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126962 	TTBK2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120761 	TTC27      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115030 	TTI1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119733 	TUBA8      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123347 	TUBB1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115654 	TUBB3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:124148 	TUBB6      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118052 	TUBG2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:246940 	Tcp1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204044 	Tcp1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:219942 	Tex16      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204209 	Tjp1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:248752 	Tmem33     		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:206138 	Tmod3      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:208522 	Tpm3       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:198754 	Tpp1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:219833 	Trim2      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:207831 	Tro        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113165 	UBA1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:130617 	UBAC2      		BioGRID		PMID: 26618866
+Biochemical Activity
+BioGRID:107506 	BioGRID:113177 	UBE2I      		BioGRID		PMID: 26627832,23155000
+Affinity Capture-MS; Co-localization
+BioGRID:107506 	BioGRID:113185 	UBE3A      		BioGRID		PMID: 19233847,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115043 	UBE3C      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:126237 	UBR3       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116934 	UBR4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119501 	UBR5       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113190 	UBTF       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119239 	UBXN1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113205 	UGDH       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121217 	UGGT1      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:120986 	UNC45A     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:111908 	UPF1       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113230 	UQCRC1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113231 	UQCRC2     		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:114554 	USP10      		BioGRID		PMID: 22904170,20215869,19398555
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:116078 	USP19      		BioGRID		PMID: 19465887
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113867 	USP9X      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:204402 	Ubb        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:248372 	Ubc        		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114651 	VAPA       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114650 	VAPB       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113257 	VCL        		BioGRID		PMID: 26618866
+Affinity Capture-MS; Affinity Capture-Western
+BioGRID:107506 	BioGRID:113258 	VCP        		BioGRID		PMID: 26618866,19828134,18216283,17272822,17110338,16954204,16621797
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113260 	VDAC2      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:132991 	VGLL3      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113272 	VIM        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113274 	VIPR1      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:118059 	VPS4A      		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113287 	VTN        		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:123255 	WDR61      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:249818 	Wfs1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:219684 	Wsb1       		BioGRID		PMID: 17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:121997 	XPNPEP3    		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113348 	XPO1       		BioGRID		PMID: 26618866,17110338
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122138 	XPO4       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:116420 	XPOT       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113353 	XRCC5      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:115954 	YME1L1     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:119543 	YTHDF2     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:128997 	YTHDF3     		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113361 	YWHAB      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113363 	YWHAE      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113364 	YWHAG      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113365 	YWHAH      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:113366 	YWHAZ      		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:114620 	ZW10       		BioGRID		PMID: 26618866
+Affinity Capture-MS
+BioGRID:107506 	BioGRID:122820 	ZYG11B     		BioGRID		PMID: 26618866
+Affinity Capture-Western
+BioGRID:107506 	BioGRID:78862  	cse1l      		BioGRID		PMID: 20933420
+
+GENERAL GENE INFO
+-------------------------------------------------------------------------------------------------
+
+Marker
+	ECD12343             	(e-PCR)	Links:UniSTS:293376
+	REN62784             	(e-PCR)	Links:UniSTS:387584
+	REN63040             	(e-PCR)	Links:UniSTS:387840
+	REN63296             	(e-PCR)	Links:UniSTS:388096
+	ECD24425             	(e-PCR)	Links:UniSTS:305409
+	REN62785             	(e-PCR)	Links:UniSTS:387585
+	REN63041             	(e-PCR)	Links:UniSTS:387841
+	REN63297             	(e-PCR)	Links:UniSTS:388097
+	REN62786             	(e-PCR)	Links:UniSTS:387586
+	REN63042             	(e-PCR)	Links:UniSTS:387842
+	REN63298             	(e-PCR)	Links:UniSTS:388098
+	GDB:392706           	(e-PCR)	Links:UniSTS:157187
+	REN62787             	(e-PCR)	Links:UniSTS:387587
+	REN63043             	(e-PCR)	Links:UniSTS:387843
+	REN63299             	(e-PCR)	Links:UniSTS:388099
+	ECD16974             	(e-PCR)	Links:UniSTS:297988
+	REN62788             	(e-PCR)	Links:UniSTS:387588
+	REN63044             	(e-PCR)	Links:UniSTS:387844
+	REN63300             	(e-PCR)	Links:UniSTS:388100
+	REN62789             	(e-PCR)	Links:UniSTS:387589
+	REN63045             	(e-PCR)	Links:UniSTS:387845
+	REN63301             	(e-PCR)	Links:UniSTS:388101
+	REN62790             	(e-PCR)	Links:UniSTS:387590
+	REN63046             	(e-PCR)	Links:UniSTS:387846
+	REN63302             	(e-PCR)	Links:UniSTS:388102
+	REN62791             	(e-PCR)	Links:UniSTS:387591
+	SHGC-35613           	(e-PCR)	Links:UniSTS:60167
+	REN63047             	(e-PCR)	Links:UniSTS:387847
+	REN63303             	(e-PCR)	Links:UniSTS:388103
+	REN62792             	(e-PCR)	Links:UniSTS:387592
+	REN63048             	(e-PCR)	Links:UniSTS:387848
+	REN63304             	(e-PCR)	Links:UniSTS:388104
+	REN62793             	(e-PCR)	Links:UniSTS:387593
+	REN63049             	(e-PCR)	Links:UniSTS:387849
+	REN63305             	(e-PCR)	Links:UniSTS:388105
+	REN62794             	(e-PCR)	Links:UniSTS:387594
+	REN63050             	(e-PCR)	Links:UniSTS:387850
+	REN63306             	(e-PCR)	Links:UniSTS:388106
+	ECD10043             	(e-PCR)	Links:UniSTS:291083
+	REN62795             	(e-PCR)	Links:UniSTS:387595
+	REN63051             	(e-PCR)	Links:UniSTS:387851
+	REN63307             	(e-PCR)	Links:UniSTS:388107
+	REN62796             	(e-PCR)	Links:UniSTS:387596
+	REN63052             	(e-PCR)	Links:UniSTS:387852
+	REN63308             	(e-PCR)	Links:UniSTS:388108
+	GDB:185075           	(e-PCR)	Links:UniSTS:155405
+	REN62797             	(e-PCR)	Links:UniSTS:387597
+	REN63053             	(e-PCR)	Links:UniSTS:387853
+	REN63309             	(e-PCR)	Links:UniSTS:388109
+	REN62798             	(e-PCR)	Links:UniSTS:387598
+	REN63054             	(e-PCR)	Links:UniSTS:387854
+	REN63310             	(e-PCR)	Links:UniSTS:388110
+	ECD04640             	(e-PCR)	Links:UniSTS:285711
+	ECD05413             	(e-PCR)	Links:UniSTS:286479
+	REN62799             	(e-PCR)	Links:UniSTS:387599
+	REN63055             	(e-PCR)	Links:UniSTS:387855
+	REN63311             	(e-PCR)	Links:UniSTS:388111
+	REN62800             	(e-PCR)	Links:UniSTS:387600
+	REN63056             	(e-PCR)	Links:UniSTS:387856
+	REN63312             	(e-PCR)	Links:UniSTS:388112
+	REN62801             	(e-PCR)	Links:UniSTS:387601
+	REN63057             	(e-PCR)	Links:UniSTS:387857
+	REN63313             	(e-PCR)	Links:UniSTS:388113
+	ECD12874             	(e-PCR)	Links:UniSTS:293906
+	REN62802             	(e-PCR)	Links:UniSTS:387602
+	REN63058             	(e-PCR)	Links:UniSTS:387858
+	REN63314             	(e-PCR)	Links:UniSTS:388114
+	ECD02573             	(e-PCR)	Links:UniSTS:283667
+	ECD20071             	(e-PCR)	Links:UniSTS:301075
+	REN62803             	(e-PCR)	Links:UniSTS:387603
+	REN63059             	(e-PCR)	Links:UniSTS:387859
+	REN63315             	(e-PCR)	Links:UniSTS:388115
+	GDB:177473           	(e-PCR)	Links:UniSTS:154900
+	ECD13133             	(e-PCR)	Links:UniSTS:294164
+	ECD20072             	(e-PCR)	Links:UniSTS:301076
+	REN62804             	(e-PCR)	Links:UniSTS:387604
+	REN63060             	(e-PCR)	Links:UniSTS:387860
+	REN63316             	(e-PCR)	Links:UniSTS:388116
+	GDB:374210           	(e-PCR)	Links:UniSTS:156949
+	ECD06963             	(e-PCR)	Links:UniSTS:288021
+	ECD21877             	(e-PCR)	Links:UniSTS:302869
+	stSG598716           	(e-PCR)	Links:UniSTS:443413
+	REN62805             	(e-PCR)	Links:UniSTS:387605
+	REN63061             	(e-PCR)	Links:UniSTS:387861
+	REN63317             	(e-PCR)	Links:UniSTS:388117
+	ECD11338             	(e-PCR)	Links:UniSTS:292374
+	stSG598717           	(e-PCR)	Links:UniSTS:443414
+	REN62806             	(e-PCR)	Links:UniSTS:387606
+	REN63062             	(e-PCR)	Links:UniSTS:387862
+	REN63318             	(e-PCR)	Links:UniSTS:388118
+	ECD03871             	(e-PCR)	Links:UniSTS:284951
+	ECD17763             	(e-PCR)	Links:UniSTS:298775
+	REN62807             	(e-PCR)	Links:UniSTS:387607
+	REN63063             	(e-PCR)	Links:UniSTS:387863
+	REN63319             	(e-PCR)	Links:UniSTS:388119
+	REN62808             	(e-PCR)	Links:UniSTS:387608
+	REN63064             	(e-PCR)	Links:UniSTS:387864
+	REN63320             	(e-PCR)	Links:UniSTS:388120
+	ECD06195             	(e-PCR)	Links:UniSTS:287257
+	REN62809             	(e-PCR)	Links:UniSTS:387609
+	REN63065             	(e-PCR)	Links:UniSTS:387865
+	REN63321             	(e-PCR)	Links:UniSTS:388121
+	ECD04394             	(e-PCR)	Links:UniSTS:285466
+	ECD06196             	(e-PCR)	Links:UniSTS:287258
+	ECD08258             	(e-PCR)	Links:UniSTS:289306
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:39450
+	REN62810             	(e-PCR)	Links:UniSTS:387610
+	REN63066             	(e-PCR)	Links:UniSTS:387866
+	REN63322             	(e-PCR)	Links:UniSTS:388122
+	ECD08259             	(e-PCR)	Links:UniSTS:289307
+	ECD13655             	(e-PCR)	Links:UniSTS:294683
+	REN62811             	(e-PCR)	Links:UniSTS:387611
+	REN63067             	(e-PCR)	Links:UniSTS:387867
+	REN63323             	(e-PCR)	Links:UniSTS:388123
+	ECD07746             	(e-PCR)	Links:UniSTS:288796
+	REN62812             	(e-PCR)	Links:UniSTS:387612
+	REN63068             	(e-PCR)	Links:UniSTS:387868
+	REN63324             	(e-PCR)	Links:UniSTS:388124
+	ECD01808             	(e-PCR)	Links:UniSTS:282909
+	ECD07747             	(e-PCR)	Links:UniSTS:288797
+	REN62813             	(e-PCR)	Links:UniSTS:387613
+	REN63069             	(e-PCR)	Links:UniSTS:387869
+	REN63325             	(e-PCR)	Links:UniSTS:388125
+	REN62814             	(e-PCR)	Links:UniSTS:387614
+	REN63070             	(e-PCR)	Links:UniSTS:387870
+	REN63326             	(e-PCR)	Links:UniSTS:388126
+	ECD17001             	(e-PCR)	Links:UniSTS:298015
+	ECD24455             	(e-PCR)	Links:UniSTS:305439
+	REN62815             	(e-PCR)	Links:UniSTS:387615
+	REN63071             	(e-PCR)	Links:UniSTS:387871
+	REN63327             	(e-PCR)	Links:UniSTS:388127
+	REN62816             	(e-PCR)	Links:UniSTS:387616
+	REN63072             	(e-PCR)	Links:UniSTS:387872
+	REN63328             	(e-PCR)	Links:UniSTS:388128
+	REN62817             	(e-PCR)	Links:UniSTS:387617
+	REN63073             	(e-PCR)	Links:UniSTS:387873
+	REN63329             	(e-PCR)	Links:UniSTS:388129
+	ECD23690             	(e-PCR)	Links:UniSTS:304674
+	REN62818             	(e-PCR)	Links:UniSTS:387618
+	REN63074             	(e-PCR)	Links:UniSTS:387874
+	REN63330             	(e-PCR)	Links:UniSTS:388130
+	REN62819             	(e-PCR)	Links:UniSTS:387619
+	REN63075             	(e-PCR)	Links:UniSTS:387875
+	REN63331             	(e-PCR)	Links:UniSTS:388131
+	REN62820             	(e-PCR)	Links:UniSTS:387620
+	REN63076             	(e-PCR)	Links:UniSTS:387876
+	REN63332             	(e-PCR)	Links:UniSTS:388132
+	ECD03629             	(e-PCR)	Links:UniSTS:284709
+	ECD12124             	(e-PCR)	Links:UniSTS:293157
+	REN62821             	(e-PCR)	Links:UniSTS:387621
+	REN63077             	(e-PCR)	Links:UniSTS:387877
+	REN63333             	(e-PCR)	Links:UniSTS:388133
+	ECD03630             	(e-PCR)	Links:UniSTS:284710
+	ECD19834             	(e-PCR)	Links:UniSTS:300838
+	REN62822             	(e-PCR)	Links:UniSTS:387622
+	REN63078             	(e-PCR)	Links:UniSTS:387878
+	REN63334             	(e-PCR)	Links:UniSTS:388134
+	REN62823             	(e-PCR)	Links:UniSTS:387623
+	REN63079             	(e-PCR)	Links:UniSTS:387879
+	REN63335             	(e-PCR)	Links:UniSTS:388135
+	REN62824             	(e-PCR)	Links:UniSTS:387624
+	REN63080             	(e-PCR)	Links:UniSTS:387880
+	REN63336             	(e-PCR)	Links:UniSTS:388136
+	D7S1427              	(e-PCR)	Links:UniSTS:33321
+	REN62825             	(e-PCR)	Links:UniSTS:387625
+	REN63081             	(e-PCR)	Links:UniSTS:387881
+	REN63337             	(e-PCR)	Links:UniSTS:388137
+	REN62826             	(e-PCR)	Links:UniSTS:387626
+	REN63082             	(e-PCR)	Links:UniSTS:387882
+	REN63338             	(e-PCR)	Links:UniSTS:388138
+	REN62827             	(e-PCR)	Links:UniSTS:387627
+	REN63083             	(e-PCR)	Links:UniSTS:387883
+	REN63339             	(e-PCR)	Links:UniSTS:388139
+	ECD09046             	(e-PCR)	Links:UniSTS:290092
+	ECD10845             	(e-PCR)	Links:UniSTS:291884
+	REN62828             	(e-PCR)	Links:UniSTS:387628
+	REN63084             	(e-PCR)	Links:UniSTS:387884
+	REN63340             	(e-PCR)	Links:UniSTS:388140
+	ECD09047             	(e-PCR)	Links:UniSTS:290093
+	ECD09820             	(e-PCR)	Links:UniSTS:290861
+	ECD20097             	(e-PCR)	Links:UniSTS:301101
+	REN62829             	(e-PCR)	Links:UniSTS:387629
+	REN63085             	(e-PCR)	Links:UniSTS:387885
+	REN63341             	(e-PCR)	Links:UniSTS:388141
+	ECD13933             	(e-PCR)	Links:UniSTS:294958
+	ECD20098             	(e-PCR)	Links:UniSTS:301102
+	REN62830             	(e-PCR)	Links:UniSTS:387630
+	REN63086             	(e-PCR)	Links:UniSTS:387886
+	REN63342             	(e-PCR)	Links:UniSTS:388142
+	REN62831             	(e-PCR)	Links:UniSTS:387631
+	REN63087             	(e-PCR)	Links:UniSTS:387887
+	REN63343             	(e-PCR)	Links:UniSTS:388143
+	REN62832             	(e-PCR)	Links:UniSTS:387632
+	REN63088             	(e-PCR)	Links:UniSTS:387888
+	REN63344             	(e-PCR)	Links:UniSTS:388144
+	REN62833             	(e-PCR)	Links:UniSTS:387633
+	REN63089             	(e-PCR)	Links:UniSTS:387889
+	REN63345             	(e-PCR)	Links:UniSTS:388145
+	REN62834             	(e-PCR)	Links:UniSTS:387634
+	REN63090             	(e-PCR)	Links:UniSTS:387890
+	REN63346             	(e-PCR)	Links:UniSTS:388146
+	ECD06221             	(e-PCR)	Links:UniSTS:287283
+	ECD17535             	(e-PCR)	Links:UniSTS:298547
+	REN62835             	(e-PCR)	Links:UniSTS:387635
+	REN63091             	(e-PCR)	Links:UniSTS:387891
+	REN63347             	(e-PCR)	Links:UniSTS:388147
+	REN62836             	(e-PCR)	Links:UniSTS:387636
+	REN63092             	(e-PCR)	Links:UniSTS:387892
+	REN63348             	(e-PCR)	Links:UniSTS:388148
+	ECD05451             	(e-PCR)	Links:UniSTS:286517
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:38709
+	REN62837             	(e-PCR)	Links:UniSTS:387637
+	REN63093             	(e-PCR)	Links:UniSTS:387893
+	REN63349             	(e-PCR)	Links:UniSTS:388149
+	REN62838             	(e-PCR)	Links:UniSTS:387638
+	REN63094             	(e-PCR)	Links:UniSTS:387894
+	REN63350             	(e-PCR)	Links:UniSTS:388150
+	REN62839             	(e-PCR)	Links:UniSTS:387639
+	REN63095             	(e-PCR)	Links:UniSTS:387895
+	REN63351             	(e-PCR)	Links:UniSTS:388151
+	ECD00030             	(e-PCR)	Links:UniSTS:281144
+	REN62840             	(e-PCR)	Links:UniSTS:387640
+	REN63096             	(e-PCR)	Links:UniSTS:387896
+	REN63352             	(e-PCR)	Links:UniSTS:388152
+	ECD10089             	(e-PCR)	Links:UniSTS:291129
+	ECD14976             	(e-PCR)	Links:UniSTS:295993
+	ECD22688             	(e-PCR)	Links:UniSTS:303673
+	REN62841             	(e-PCR)	Links:UniSTS:387641
+	REN63097             	(e-PCR)	Links:UniSTS:387897
+	REN63353             	(e-PCR)	Links:UniSTS:388153
+	REN62842             	(e-PCR)	Links:UniSTS:387642
+	REN63098             	(e-PCR)	Links:UniSTS:387898
+	REN63354             	(e-PCR)	Links:UniSTS:388154
+	REN62843             	(e-PCR)	Links:UniSTS:387643
+	REN63099             	(e-PCR)	Links:UniSTS:387899
+	REN63355             	(e-PCR)	Links:UniSTS:388155
+	ECD09579             	(e-PCR)	Links:UniSTS:290620
+	REN62844             	(e-PCR)	Links:UniSTS:387644
+	REN63100             	(e-PCR)	Links:UniSTS:387900
+	REN63356             	(e-PCR)	Links:UniSTS:388156
+	REN62845             	(e-PCR)	Links:UniSTS:387645
+	REN63101             	(e-PCR)	Links:UniSTS:387901
+	REN63357             	(e-PCR)	Links:UniSTS:388157
+	ECD23974             	(e-PCR)	Links:UniSTS:304958
+	REN62846             	(e-PCR)	Links:UniSTS:387646
+	REN63102             	(e-PCR)	Links:UniSTS:387902
+	REN63358             	(e-PCR)	Links:UniSTS:388158
+	ECD16008             	(e-PCR)	Links:UniSTS:297023
+	REN62847             	(e-PCR)	Links:UniSTS:387647
+	REN63103             	(e-PCR)	Links:UniSTS:387903
+	REN63359             	(e-PCR)	Links:UniSTS:388159
+	REN62848             	(e-PCR)	Links:UniSTS:387648
+	REN63104             	(e-PCR)	Links:UniSTS:387904
+	REN63360             	(e-PCR)	Links:UniSTS:388160
+	STS-M28668           	(e-PCR)	Links:UniSTS:42561
+	REN62849             	(e-PCR)	Links:UniSTS:387649
+	REN63105             	(e-PCR)	Links:UniSTS:387905
+	REN63361             	(e-PCR)	Links:UniSTS:388161
+	ECD02620             	(e-PCR)	Links:UniSTS:283714
+	ECD03914             	(e-PCR)	Links:UniSTS:284994
+	ECD11638             	(e-PCR)	Links:UniSTS:292674
+	ECD23466             	(e-PCR)	Links:UniSTS:304450
+	REN62850             	(e-PCR)	Links:UniSTS:387650
+	REN63106             	(e-PCR)	Links:UniSTS:387906
+	REN63362             	(e-PCR)	Links:UniSTS:388162
+	ECD11639             	(e-PCR)	Links:UniSTS:292675
+	REN62851             	(e-PCR)	Links:UniSTS:387651
+	REN63107             	(e-PCR)	Links:UniSTS:387907
+	REN63363             	(e-PCR)	Links:UniSTS:388163
+	ECD16525             	(e-PCR)	Links:UniSTS:297540
+	REN62852             	(e-PCR)	Links:UniSTS:387652
+	REN63108             	(e-PCR)	Links:UniSTS:387908
+	REN63364             	(e-PCR)	Links:UniSTS:388164
+	ECD07011             	(e-PCR)	Links:UniSTS:288069
+	ECD08301             	(e-PCR)	Links:UniSTS:289349
+	ECD16526             	(e-PCR)	Links:UniSTS:297541
+	REN62853             	(e-PCR)	Links:UniSTS:387653
+	REN63109             	(e-PCR)	Links:UniSTS:387909
+	REN63365             	(e-PCR)	Links:UniSTS:388165
+	ECD02105             	(e-PCR)	Links:UniSTS:283206
+	ECD06754             	(e-PCR)	Links:UniSTS:287814
+	ECD16527             	(e-PCR)	Links:UniSTS:297542
+	ECD21153             	(e-PCR)	Links:UniSTS:302150
+	REN62854             	(e-PCR)	Links:UniSTS:387654
+	REN63110             	(e-PCR)	Links:UniSTS:387910
+	REN63366             	(e-PCR)	Links:UniSTS:388166
+	ECD06755             	(e-PCR)	Links:UniSTS:287815
+	REN62855             	(e-PCR)	Links:UniSTS:387655
+	REN63111             	(e-PCR)	Links:UniSTS:387911
+	REN63367             	(e-PCR)	Links:UniSTS:388167
+	ECD24240             	(e-PCR)	Links:UniSTS:305224
+	REN62856             	(e-PCR)	Links:UniSTS:387656
+	REN63112             	(e-PCR)	Links:UniSTS:387912
+	REN63368             	(e-PCR)	Links:UniSTS:388168
+	REN62857             	(e-PCR)	Links:UniSTS:387657
+	REN63113             	(e-PCR)	Links:UniSTS:387913
+	REN63369             	(e-PCR)	Links:UniSTS:388169
+	REN62858             	(e-PCR)	Links:UniSTS:387658
+	REN63114             	(e-PCR)	Links:UniSTS:387914
+	REN63370             	(e-PCR)	Links:UniSTS:388170
+	ECD18072             	(e-PCR)	Links:UniSTS:299083
+	REN62859             	(e-PCR)	Links:UniSTS:387659
+	REN63115             	(e-PCR)	Links:UniSTS:387915
+	REN63371             	(e-PCR)	Links:UniSTS:388171
+	REN62860             	(e-PCR)	Links:UniSTS:387660
+	REN63116             	(e-PCR)	Links:UniSTS:387916
+	REN63372             	(e-PCR)	Links:UniSTS:388172
+	RH78950              	(e-PCR)	Links:UniSTS:85325
+	REN62861             	(e-PCR)	Links:UniSTS:387661
+	REN63117             	(e-PCR)	Links:UniSTS:387917
+	REN63373             	(e-PCR)	Links:UniSTS:388173
+	SHGC-106402          	(e-PCR)	Links:UniSTS:169806
+	REN62862             	(e-PCR)	Links:UniSTS:387662
+	REN63118             	(e-PCR)	Links:UniSTS:387918
+	REN63374             	(e-PCR)	Links:UniSTS:388174
+	ECD12166             	(e-PCR)	Links:UniSTS:293199
+	REN62863             	(e-PCR)	Links:UniSTS:387663
+	REN63119             	(e-PCR)	Links:UniSTS:387919
+	REN63375             	(e-PCR)	Links:UniSTS:388175
+	ECD03672             	(e-PCR)	Links:UniSTS:284752
+	ECD17307             	(e-PCR)	Links:UniSTS:298320
+	REN62864             	(e-PCR)	Links:UniSTS:387664
+	REN63120             	(e-PCR)	Links:UniSTS:387920
+	REN63376             	(e-PCR)	Links:UniSTS:388176
+	REN62865             	(e-PCR)	Links:UniSTS:387665
+	REN63121             	(e-PCR)	Links:UniSTS:387921
+	REN63377             	(e-PCR)	Links:UniSTS:388177
+	ECD02894             	(e-PCR)	Links:UniSTS:283986
+	ECD22456             	(e-PCR)	Links:UniSTS:303442
+	REN62866             	(e-PCR)	Links:UniSTS:387666
+	REN63122             	(e-PCR)	Links:UniSTS:387922
+	REN63378             	(e-PCR)	Links:UniSTS:388178
+	GDB:438116           	(e-PCR)	Links:UniSTS:157267
+	REN62867             	(e-PCR)	Links:UniSTS:387667
+	REN63123             	(e-PCR)	Links:UniSTS:387923
+	REN63379             	(e-PCR)	Links:UniSTS:388179
+	ECD22971             	(e-PCR)	Links:UniSTS:303956
+	REN62868             	(e-PCR)	Links:UniSTS:387668
+	REN63124             	(e-PCR)	Links:UniSTS:387924
+	REN63380             	(e-PCR)	Links:UniSTS:388180
+	REN62869             	(e-PCR)	Links:UniSTS:387669
+	REN63125             	(e-PCR)	Links:UniSTS:387925
+	REN63381             	(e-PCR)	Links:UniSTS:388181
+	REN62870             	(e-PCR)	Links:UniSTS:387670
+	REN63126             	(e-PCR)	Links:UniSTS:387926
+	REN63382             	(e-PCR)	Links:UniSTS:388182
+	REN62871             	(e-PCR)	Links:UniSTS:387671
+	REN63127             	(e-PCR)	Links:UniSTS:387927
+	REN63383             	(e-PCR)	Links:UniSTS:388183
+	REN62872             	(e-PCR)	Links:UniSTS:387672
+	REN63128             	(e-PCR)	Links:UniSTS:387928
+	REN63384             	(e-PCR)	Links:UniSTS:388184
+	REN62873             	(e-PCR)	Links:UniSTS:387673
+	REN63129             	(e-PCR)	Links:UniSTS:387929
+	REN63385             	(e-PCR)	Links:UniSTS:388185
+	REN62874             	(e-PCR)	Links:UniSTS:387674
+	REN63130             	(e-PCR)	Links:UniSTS:387930
+	REN63386             	(e-PCR)	Links:UniSTS:388186
+	REN62875             	(e-PCR)	Links:UniSTS:387675
+	REN63131             	(e-PCR)	Links:UniSTS:387931
+	REN63387             	(e-PCR)	Links:UniSTS:388187
+	ECD19888             	(e-PCR)	Links:UniSTS:300892
+	REN62876             	(e-PCR)	Links:UniSTS:387676
+	REN63132             	(e-PCR)	Links:UniSTS:387932
+	REN63388             	(e-PCR)	Links:UniSTS:388188
+	ECD20402             	(e-PCR)	Links:UniSTS:301405
+	ECD24518             	(e-PCR)	Links:UniSTS:305501
+	REN62877             	(e-PCR)	Links:UniSTS:387677
+	REN63133             	(e-PCR)	Links:UniSTS:387933
+	REN63389             	(e-PCR)	Links:UniSTS:388189
+	ECD00068             	(e-PCR)	Links:UniSTS:281182
+	SHGC-5982            	(e-PCR)	Links:UniSTS:41822
+	REN62878             	(e-PCR)	Links:UniSTS:387678
+	REN63134             	(e-PCR)	Links:UniSTS:387934
+	REN63390             	(e-PCR)	Links:UniSTS:388190
+	ECD04979             	(e-PCR)	Links:UniSTS:286047
+	REN62879             	(e-PCR)	Links:UniSTS:387679
+	REN63135             	(e-PCR)	Links:UniSTS:387935
+	REN63391             	(e-PCR)	Links:UniSTS:388191
+	ECD08841             	(e-PCR)	Links:UniSTS:289888
+	ECD17067             	(e-PCR)	Links:UniSTS:298080
+	REN62880             	(e-PCR)	Links:UniSTS:387680
+	REN63136             	(e-PCR)	Links:UniSTS:387936
+	REN63392             	(e-PCR)	Links:UniSTS:388192
+	REN62881             	(e-PCR)	Links:UniSTS:387681
+	REN63137             	(e-PCR)	Links:UniSTS:387937
+	REN63393             	(e-PCR)	Links:UniSTS:388193
+	REN62882             	(e-PCR)	Links:UniSTS:387682
+	REN63138             	(e-PCR)	Links:UniSTS:387938
+	REN63394             	(e-PCR)	Links:UniSTS:388194
+	ECD23499             	(e-PCR)	Links:UniSTS:304483
+	REN62883             	(e-PCR)	Links:UniSTS:387683
+	REN63139             	(e-PCR)	Links:UniSTS:387939
+	REN63395             	(e-PCR)	Links:UniSTS:388195
+	ECD07042             	(e-PCR)	Links:UniSTS:288100
+	ECD14760             	(e-PCR)	Links:UniSTS:295780
+	REN62884             	(e-PCR)	Links:UniSTS:387684
+	REN63140             	(e-PCR)	Links:UniSTS:387940
+	REN63396             	(e-PCR)	Links:UniSTS:388196
+	ECD07043             	(e-PCR)	Links:UniSTS:288101
+	REN62885             	(e-PCR)	Links:UniSTS:387685
+	REN63141             	(e-PCR)	Links:UniSTS:387941
+	REN63397             	(e-PCR)	Links:UniSTS:388197
+	REN62886             	(e-PCR)	Links:UniSTS:387686
+	REN63142             	(e-PCR)	Links:UniSTS:387942
+	REN63398             	(e-PCR)	Links:UniSTS:388198
+	REN62887             	(e-PCR)	Links:UniSTS:387687
+	REN63143             	(e-PCR)	Links:UniSTS:387943
+	REN63399             	(e-PCR)	Links:UniSTS:388199
+	RH104339             	(e-PCR)	Links:UniSTS:98664
+	REN62888             	(e-PCR)	Links:UniSTS:387688
+	REN63144             	(e-PCR)	Links:UniSTS:387944
+	REN63400             	(e-PCR)	Links:UniSTS:388200
+	ECD10650             	(e-PCR)	Links:UniSTS:291689
+	ECD12962             	(e-PCR)	Links:UniSTS:293993
+	ECD16818             	(e-PCR)	Links:UniSTS:297833
+	REN62889             	(e-PCR)	Links:UniSTS:387689
+	REN63145             	(e-PCR)	Links:UniSTS:387945
+	REN63401             	(e-PCR)	Links:UniSTS:388201
+	ECD00080             	(e-PCR)	Links:UniSTS:281194
+	REN62890             	(e-PCR)	Links:UniSTS:387690
+	REN63146             	(e-PCR)	Links:UniSTS:387946
+	REN63402             	(e-PCR)	Links:UniSTS:388202
+	ECD11938             	(e-PCR)	Links:UniSTS:292971
+	REN62891             	(e-PCR)	Links:UniSTS:387691
+	REN63147             	(e-PCR)	Links:UniSTS:387947
+	REN63403             	(e-PCR)	Links:UniSTS:388203
+	ECD20934             	(e-PCR)	Links:UniSTS:301932
+	REN62892             	(e-PCR)	Links:UniSTS:387692
+	REN63148             	(e-PCR)	Links:UniSTS:387948
+	REN63404             	(e-PCR)	Links:UniSTS:388204
+	ECD02921             	(e-PCR)	Links:UniSTS:284013
+	ECD11169             	(e-PCR)	Links:UniSTS:292205
+	REN62893             	(e-PCR)	Links:UniSTS:387693
+	REN63149             	(e-PCR)	Links:UniSTS:387949
+	REN63405             	(e-PCR)	Links:UniSTS:388205
+	ECD22484             	(e-PCR)	Links:UniSTS:303470
+	REN62894             	(e-PCR)	Links:UniSTS:387694
+	REN63150             	(e-PCR)	Links:UniSTS:387950
+	REN63406             	(e-PCR)	Links:UniSTS:388206
+	REN62895             	(e-PCR)	Links:UniSTS:387695
+	REN63151             	(e-PCR)	Links:UniSTS:387951
+	REN62896             	(e-PCR)	Links:UniSTS:387696
+	REN63152             	(e-PCR)	Links:UniSTS:387952
+	REN62897             	(e-PCR)	Links:UniSTS:387697
+	REN63153             	(e-PCR)	Links:UniSTS:387953
+	ECD08602             	(e-PCR)	Links:UniSTS:289650
+	REN62898             	(e-PCR)	Links:UniSTS:387698
+	REN63154             	(e-PCR)	Links:UniSTS:387954
+	ECD13485             	(e-PCR)	Links:UniSTS:294515
+	REN62899             	(e-PCR)	Links:UniSTS:387699
+	REN63155             	(e-PCR)	Links:UniSTS:387955
+	REN62900             	(e-PCR)	Links:UniSTS:387700
+	REN63156             	(e-PCR)	Links:UniSTS:387956
+	ECD02411             	(e-PCR)	Links:UniSTS:283509
+	REN62901             	(e-PCR)	Links:UniSTS:387701
+	REN63157             	(e-PCR)	Links:UniSTS:387957
+	REN62902             	(e-PCR)	Links:UniSTS:387702
+	REN63158             	(e-PCR)	Links:UniSTS:387958
+	REN62903             	(e-PCR)	Links:UniSTS:387703
+	REN63159             	(e-PCR)	Links:UniSTS:387959
+	REN62904             	(e-PCR)	Links:UniSTS:387704
+	REN63160             	(e-PCR)	Links:UniSTS:387960
+	REN62905             	(e-PCR)	Links:UniSTS:387705
+	REN63161             	(e-PCR)	Links:UniSTS:387961
+	REN62906             	(e-PCR)	Links:UniSTS:387706
+	REN63162             	(e-PCR)	Links:UniSTS:387962
+	ECD15554             	(e-PCR)	Links:UniSTS:296571
+	REN62907             	(e-PCR)	Links:UniSTS:387707
+	REN63163             	(e-PCR)	Links:UniSTS:387963
+	ECD23524             	(e-PCR)	Links:UniSTS:304508
+	REN62908             	(e-PCR)	Links:UniSTS:387708
+	REN63164             	(e-PCR)	Links:UniSTS:387964
+	REN62909             	(e-PCR)	Links:UniSTS:387709
+	REN63165             	(e-PCR)	Links:UniSTS:387965
+	ECD21209             	(e-PCR)	Links:UniSTS:302206
+	REN62910             	(e-PCR)	Links:UniSTS:387710
+	REN63166             	(e-PCR)	Links:UniSTS:387966
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:42111
+	REN62911             	(e-PCR)	Links:UniSTS:387711
+	REN63167             	(e-PCR)	Links:UniSTS:387967
+	REN62912             	(e-PCR)	Links:UniSTS:387712
+	REN63168             	(e-PCR)	Links:UniSTS:387968
+	ECD06043             	(e-PCR)	Links:UniSTS:287105
+	ECD07847             	(e-PCR)	Links:UniSTS:288897
+	REN62913             	(e-PCR)	Links:UniSTS:387713
+	REN63169             	(e-PCR)	Links:UniSTS:387969
+	ECD02943             	(e-PCR)	Links:UniSTS:284034
+	ECD16843             	(e-PCR)	Links:UniSTS:297858
+	ECD19669             	(e-PCR)	Links:UniSTS:300674
+	REN62914             	(e-PCR)	Links:UniSTS:387714
+	REN63170             	(e-PCR)	Links:UniSTS:387970
+	ECD16844             	(e-PCR)	Links:UniSTS:297859
+	REN62915             	(e-PCR)	Links:UniSTS:387715
+	REN63171             	(e-PCR)	Links:UniSTS:387971
+	ECD08364             	(e-PCR)	Links:UniSTS:289412
+	ECD09651             	(e-PCR)	Links:UniSTS:290692
+	ECD10164             	(e-PCR)	Links:UniSTS:291204
+	REN62916             	(e-PCR)	Links:UniSTS:387716
+	REN63172             	(e-PCR)	Links:UniSTS:387972
+	ECD08365             	(e-PCR)	Links:UniSTS:289413
+	REN62917             	(e-PCR)	Links:UniSTS:387717
+	REN63173             	(e-PCR)	Links:UniSTS:387973
+	ECD04502             	(e-PCR)	Links:UniSTS:285574
+	REN62918             	(e-PCR)	Links:UniSTS:387718
+	REN63174             	(e-PCR)	Links:UniSTS:387974
+	REN62919             	(e-PCR)	Links:UniSTS:387719
+	REN63175             	(e-PCR)	Links:UniSTS:387975
+	REN62920             	(e-PCR)	Links:UniSTS:387720
+	REN63176             	(e-PCR)	Links:UniSTS:387976
+	REN62921             	(e-PCR)	Links:UniSTS:387721
+	REN63177             	(e-PCR)	Links:UniSTS:387977
+	REN62922             	(e-PCR)	Links:UniSTS:387722
+	REN63178             	(e-PCR)	Links:UniSTS:387978
+	ECD04245             	(e-PCR)	Links:UniSTS:285323
+	ECD11455             	(e-PCR)	Links:UniSTS:292491
+	REN62923             	(e-PCR)	Links:UniSTS:387723
+	REN63179             	(e-PCR)	Links:UniSTS:387979
+	ECD05798             	(e-PCR)	Links:UniSTS:286860
+	ECD14544             	(e-PCR)	Links:UniSTS:295564
+	REN62924             	(e-PCR)	Links:UniSTS:387724
+	REN63180             	(e-PCR)	Links:UniSTS:387980
+	REN62925             	(e-PCR)	Links:UniSTS:387725
+	REN63181             	(e-PCR)	Links:UniSTS:387981
+	ECD12229             	(e-PCR)	Links:UniSTS:293262
+	REN62926             	(e-PCR)	Links:UniSTS:387726
+	REN63182             	(e-PCR)	Links:UniSTS:387982
+	ECD17627             	(e-PCR)	Links:UniSTS:298639
+	REN62927             	(e-PCR)	Links:UniSTS:387727
+	REN63183             	(e-PCR)	Links:UniSTS:387983
+	REN62928             	(e-PCR)	Links:UniSTS:387728
+	REN63184             	(e-PCR)	Links:UniSTS:387984
+	REN62929             	(e-PCR)	Links:UniSTS:387729
+	REN63185             	(e-PCR)	Links:UniSTS:387985
+	ECD04771             	(e-PCR)	Links:UniSTS:285842
+	REN62930             	(e-PCR)	Links:UniSTS:387730
+	REN63186             	(e-PCR)	Links:UniSTS:387986
+	REN62931             	(e-PCR)	Links:UniSTS:387731
+	REN63187             	(e-PCR)	Links:UniSTS:387987
+	ECD11979             	(e-PCR)	Links:UniSTS:293012
+	ECD12747             	(e-PCR)	Links:UniSTS:293780
+	REN62932             	(e-PCR)	Links:UniSTS:387732
+	REN63188             	(e-PCR)	Links:UniSTS:387988
+	REN62933             	(e-PCR)	Links:UniSTS:387733
+	REN63189             	(e-PCR)	Links:UniSTS:387989
+	REN62934             	(e-PCR)	Links:UniSTS:387734
+	REN63190             	(e-PCR)	Links:UniSTS:387990
+	REN62935             	(e-PCR)	Links:UniSTS:387735
+	REN63191             	(e-PCR)	Links:UniSTS:387991
+	REN62936             	(e-PCR)	Links:UniSTS:387736
+	REN63192             	(e-PCR)	Links:UniSTS:387992
+	G49398               	(e-PCR)	Links:UniSTS:109209
+	REN62937             	(e-PCR)	Links:UniSTS:387737
+	REN63193             	(e-PCR)	Links:UniSTS:387993
+	ECD24322             	(e-PCR)	Links:UniSTS:305306
+	REN62938             	(e-PCR)	Links:UniSTS:387738
+	REN63194             	(e-PCR)	Links:UniSTS:387994
+	REN62939             	(e-PCR)	Links:UniSTS:387739
+	REN63195             	(e-PCR)	Links:UniSTS:387995
+	REN62940             	(e-PCR)	Links:UniSTS:387740
+	REN63196             	(e-PCR)	Links:UniSTS:387996
+	ECD08902             	(e-PCR)	Links:UniSTS:289949
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:42397
+	REN62941             	(e-PCR)	Links:UniSTS:387741
+	REN63197             	(e-PCR)	Links:UniSTS:387997
+	ECD15847             	(e-PCR)	Links:UniSTS:296862
+	REN62942             	(e-PCR)	Links:UniSTS:387742
+	REN63198             	(e-PCR)	Links:UniSTS:387998
+	STS-M96936           	(e-PCR)	Links:UniSTS:80799
+	REN62943             	(e-PCR)	Links:UniSTS:387743
+	REN63199             	(e-PCR)	Links:UniSTS:387999
+	REN62944             	(e-PCR)	Links:UniSTS:387744
+	REN63200             	(e-PCR)	Links:UniSTS:388000
+	REN62945             	(e-PCR)	Links:UniSTS:387745
+	REN63201             	(e-PCR)	Links:UniSTS:388001
+	REN62946             	(e-PCR)	Links:UniSTS:387746
+	REN63202             	(e-PCR)	Links:UniSTS:388002
+	REN62947             	(e-PCR)	Links:UniSTS:387747
+	REN63203             	(e-PCR)	Links:UniSTS:388003
+	REN62948             	(e-PCR)	Links:UniSTS:387748
+	REN63204             	(e-PCR)	Links:UniSTS:388004
+	REN62949             	(e-PCR)	Links:UniSTS:387749
+	REN63205             	(e-PCR)	Links:UniSTS:388005
+	REN62950             	(e-PCR)	Links:UniSTS:387750
+	REN63206             	(e-PCR)	Links:UniSTS:388006
+	D7S2742              	(e-PCR)	Links:UniSTS:12967
+	REN62951             	(e-PCR)	Links:UniSTS:387751
+	REN63207             	(e-PCR)	Links:UniSTS:388007
+	REN62952             	(e-PCR)	Links:UniSTS:387752
+	REN63208             	(e-PCR)	Links:UniSTS:388008
+	REN62953             	(e-PCR)	Links:UniSTS:387753
+	REN63209             	(e-PCR)	Links:UniSTS:388009
+	ECD18167             	(e-PCR)	Links:UniSTS:299178
+	REN62954             	(e-PCR)	Links:UniSTS:387754
+	REN63210             	(e-PCR)	Links:UniSTS:388010
+	ECD02725             	(e-PCR)	Links:UniSTS:283819
+	GDB:179709           	(e-PCR)	Links:UniSTS:155051
+	ECD06599             	(e-PCR)	Links:UniSTS:287659
+	ECD19454             	(e-PCR)	Links:UniSTS:300459
+	REN62955             	(e-PCR)	Links:UniSTS:387755
+	REN63211             	(e-PCR)	Links:UniSTS:388011
+	GDB:179710           	(e-PCR)	Links:UniSTS:155052
+	ECD06600             	(e-PCR)	Links:UniSTS:287660
+	ECD07633             	(e-PCR)	Links:UniSTS:288684
+	REN62956             	(e-PCR)	Links:UniSTS:387756
+	REN63212             	(e-PCR)	Links:UniSTS:388012
+	GDB:179711           	(e-PCR)	Links:UniSTS:155053
+	ECD07634             	(e-PCR)	Links:UniSTS:288685
+	ECD09949             	(e-PCR)	Links:UniSTS:290989
+	REN62957             	(e-PCR)	Links:UniSTS:387757
+	REN63213             	(e-PCR)	Links:UniSTS:388013
+	REN62958             	(e-PCR)	Links:UniSTS:387758
+	REN63214             	(e-PCR)	Links:UniSTS:388014
+	REN62959             	(e-PCR)	Links:UniSTS:387759
+	REN63215             	(e-PCR)	Links:UniSTS:388015
+	REN62960             	(e-PCR)	Links:UniSTS:387760
+	REN63216             	(e-PCR)	Links:UniSTS:388016
+	ECD07120             	(e-PCR)	Links:UniSTS:288177
+	SHGC-79680           	(e-PCR)	Links:UniSTS:102065
+	ECD21004             	(e-PCR)	Links:UniSTS:302001
+	REN62961             	(e-PCR)	Links:UniSTS:387761
+	REN63217             	(e-PCR)	Links:UniSTS:388017
+	ECD08410             	(e-PCR)	Links:UniSTS:289458
+	ECD12521             	(e-PCR)	Links:UniSTS:293554
+	REN62962             	(e-PCR)	Links:UniSTS:387762
+	REN63218             	(e-PCR)	Links:UniSTS:388018
+	ECD08155             	(e-PCR)	Links:UniSTS:289203
+	REN62963             	(e-PCR)	Links:UniSTS:387763
+	REN63219             	(e-PCR)	Links:UniSTS:388019
+	REN62964             	(e-PCR)	Links:UniSTS:387764
+	REN63220             	(e-PCR)	Links:UniSTS:388020
+	REN62965             	(e-PCR)	Links:UniSTS:387765
+	REN63221             	(e-PCR)	Links:UniSTS:388021
+	REN62966             	(e-PCR)	Links:UniSTS:387766
+	REN63222             	(e-PCR)	Links:UniSTS:388022
+	REN62967             	(e-PCR)	Links:UniSTS:387767
+	REN63223             	(e-PCR)	Links:UniSTS:388023
+	REN62968             	(e-PCR)	Links:UniSTS:387768
+	REN63224             	(e-PCR)	Links:UniSTS:388024
+	REN62969             	(e-PCR)	Links:UniSTS:387769
+	REN63225             	(e-PCR)	Links:UniSTS:388025
+	GDB:176433           	(e-PCR)	Links:UniSTS:154810
+	REN62970             	(e-PCR)	Links:UniSTS:387770
+	REN63226             	(e-PCR)	Links:UniSTS:388026
+	REN62971             	(e-PCR)	Links:UniSTS:387771
+	REN63227             	(e-PCR)	Links:UniSTS:388027
+	ECD08933             	(e-PCR)	Links:UniSTS:289980
+	REN62972             	(e-PCR)	Links:UniSTS:387772
+	REN63228             	(e-PCR)	Links:UniSTS:388028
+	REN62973             	(e-PCR)	Links:UniSTS:387773
+	REN63229             	(e-PCR)	Links:UniSTS:388029
+	REN62974             	(e-PCR)	Links:UniSTS:387774
+	REN63230             	(e-PCR)	Links:UniSTS:388030
+	REN62975             	(e-PCR)	Links:UniSTS:387775
+	REN63231             	(e-PCR)	Links:UniSTS:388031
+	REN62720             	(e-PCR)	Links:UniSTS:387520
+	REN62976             	(e-PCR)	Links:UniSTS:387776
+	REN63232             	(e-PCR)	Links:UniSTS:388032
+	ECD01458             	(e-PCR)	Links:UniSTS:282561
+	ECD09454             	(e-PCR)	Links:UniSTS:290497
+	REN62721             	(e-PCR)	Links:UniSTS:387521
+	REN62977             	(e-PCR)	Links:UniSTS:387777
+	REN63233             	(e-PCR)	Links:UniSTS:388033
+	REN62722             	(e-PCR)	Links:UniSTS:387522
+	REN62978             	(e-PCR)	Links:UniSTS:387778
+	REN63234             	(e-PCR)	Links:UniSTS:388034
+	REN62723             	(e-PCR)	Links:UniSTS:387523
+	REN62979             	(e-PCR)	Links:UniSTS:387779
+	REN63235             	(e-PCR)	Links:UniSTS:388035
+	REN62724             	(e-PCR)	Links:UniSTS:387524
+	REN62980             	(e-PCR)	Links:UniSTS:387780
+	REN63236             	(e-PCR)	Links:UniSTS:388036
+	ECD18194             	(e-PCR)	Links:UniSTS:299205
+	REN62725             	(e-PCR)	Links:UniSTS:387525
+	REN62981             	(e-PCR)	Links:UniSTS:387781
+	REN63237             	(e-PCR)	Links:UniSTS:388037
+	ECD03012             	(e-PCR)	Links:UniSTS:284102
+	REN62726             	(e-PCR)	Links:UniSTS:387526
+	REN62982             	(e-PCR)	Links:UniSTS:387782
+	REN63238             	(e-PCR)	Links:UniSTS:388038
+	REN62727             	(e-PCR)	Links:UniSTS:387527
+	REN62983             	(e-PCR)	Links:UniSTS:387783
+	REN63239             	(e-PCR)	Links:UniSTS:388039
+	ECD06370             	(e-PCR)	Links:UniSTS:287432
+	ECD21541             	(e-PCR)	Links:UniSTS:302536
+	REN62728             	(e-PCR)	Links:UniSTS:387528
+	REN62984             	(e-PCR)	Links:UniSTS:387784
+	REN63240             	(e-PCR)	Links:UniSTS:388040
+	ECD08689             	(e-PCR)	Links:UniSTS:289737
+	REN62729             	(e-PCR)	Links:UniSTS:387529
+	REN62985             	(e-PCR)	Links:UniSTS:387785
+	REN63241             	(e-PCR)	Links:UniSTS:388041
+	ECD08690             	(e-PCR)	Links:UniSTS:289738
+	REN62730             	(e-PCR)	Links:UniSTS:387530
+	REN62986             	(e-PCR)	Links:UniSTS:387786
+	REN63242             	(e-PCR)	Links:UniSTS:388042
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:27339
+	REN62731             	(e-PCR)	Links:UniSTS:387531
+	REN62987             	(e-PCR)	Links:UniSTS:387787
+	REN63243             	(e-PCR)	Links:UniSTS:388043
+	REN62732             	(e-PCR)	Links:UniSTS:387532
+	REN62988             	(e-PCR)	Links:UniSTS:387788
+	REN63244             	(e-PCR)	Links:UniSTS:388044
+	REN62733             	(e-PCR)	Links:UniSTS:387533
+	REN62989             	(e-PCR)	Links:UniSTS:387789
+	REN63245             	(e-PCR)	Links:UniSTS:388045
+	REN62734             	(e-PCR)	Links:UniSTS:387534
+	REN62990             	(e-PCR)	Links:UniSTS:387790
+	REN63246             	(e-PCR)	Links:UniSTS:388046
+	GDB:204205           	(e-PCR)	Links:UniSTS:156111
+	REN62735             	(e-PCR)	Links:UniSTS:387535
+	REN62991             	(e-PCR)	Links:UniSTS:387791
+	REN63247             	(e-PCR)	Links:UniSTS:388047
+	GDB:204211           	(e-PCR)	Links:UniSTS:156112
+	REN62736             	(e-PCR)	Links:UniSTS:387536
+	REN62992             	(e-PCR)	Links:UniSTS:387792
+	REN63248             	(e-PCR)	Links:UniSTS:388048
+	REN62737             	(e-PCR)	Links:UniSTS:387537
+	REN62993             	(e-PCR)	Links:UniSTS:387793
+	REN63249             	(e-PCR)	Links:UniSTS:388049
+	ECD11526             	(e-PCR)	Links:UniSTS:292562
+	ECD15385             	(e-PCR)	Links:UniSTS:296402
+	REN62738             	(e-PCR)	Links:UniSTS:387538
+	REN62994             	(e-PCR)	Links:UniSTS:387794
+	REN63250             	(e-PCR)	Links:UniSTS:388050
+	CFTR_4184            	(e-PCR)	Links:UniSTS:463571
+	ECD11271             	(e-PCR)	Links:UniSTS:292307
+	ECD12042             	(e-PCR)	Links:UniSTS:293075
+	ECD14358             	(e-PCR)	Links:UniSTS:295379
+	REN62739             	(e-PCR)	Links:UniSTS:387539
+	REN62995             	(e-PCR)	Links:UniSTS:387795
+	REN63251             	(e-PCR)	Links:UniSTS:388051
+	GDB:177188           	(e-PCR)	Links:UniSTS:154836
+	ECD12043             	(e-PCR)	Links:UniSTS:293076
+	REN62740             	(e-PCR)	Links:UniSTS:387540
+	REN62996             	(e-PCR)	Links:UniSTS:387796
+	REN63252             	(e-PCR)	Links:UniSTS:388052
+	REN62741             	(e-PCR)	Links:UniSTS:387541
+	REN62997             	(e-PCR)	Links:UniSTS:387797
+	REN63253             	(e-PCR)	Links:UniSTS:388053
+	D7S677               	(e-PCR), detects polymorphism	Links:UniSTS:18390
+	ECD18724             	(e-PCR)	Links:UniSTS:299734
+	REN62742             	(e-PCR)	Links:UniSTS:387542
+	REN62998             	(e-PCR)	Links:UniSTS:387798
+	REN63254             	(e-PCR)	Links:UniSTS:388054
+	ECD16416             	(e-PCR)	Links:UniSTS:297431
+	REN62743             	(e-PCR)	Links:UniSTS:387543
+	REN62999             	(e-PCR)	Links:UniSTS:387799
+	REN63255             	(e-PCR)	Links:UniSTS:388055
+	REN62744             	(e-PCR)	Links:UniSTS:387544
+	REN63000             	(e-PCR)	Links:UniSTS:387800
+	REN63256             	(e-PCR)	Links:UniSTS:388056
+	REN62745             	(e-PCR)	Links:UniSTS:387545
+	REN63001             	(e-PCR)	Links:UniSTS:387801
+	REN63257             	(e-PCR)	Links:UniSTS:388057
+	ECD09222             	(e-PCR)	Links:UniSTS:290266
+	REN62746             	(e-PCR)	Links:UniSTS:387546
+	REN63002             	(e-PCR)	Links:UniSTS:387802
+	REN63258             	(e-PCR)	Links:UniSTS:388058
+	REN62747             	(e-PCR)	Links:UniSTS:387547
+	REN63003             	(e-PCR)	Links:UniSTS:387803
+	REN63259             	(e-PCR)	Links:UniSTS:388059
+	ECD03555             	(e-PCR)	Links:UniSTS:284636
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:59100
+	REN62748             	(e-PCR)	Links:UniSTS:387548
+	REN63004             	(e-PCR)	Links:UniSTS:387804
+	REN63260             	(e-PCR)	Links:UniSTS:388060
+	ECD02516             	(e-PCR)	Links:UniSTS:283613
+	ECD03556             	(e-PCR)	Links:UniSTS:284637
+	ECD17192             	(e-PCR)	Links:UniSTS:298205
+	REN62749             	(e-PCR)	Links:UniSTS:387549
+	REN63005             	(e-PCR)	Links:UniSTS:387805
+	REN63261             	(e-PCR)	Links:UniSTS:388061
+	REN62750             	(e-PCR)	Links:UniSTS:387550
+	REN63006             	(e-PCR)	Links:UniSTS:387806
+	REN63262             	(e-PCR)	Links:UniSTS:388062
+	GDB:210513           	(e-PCR)	Links:UniSTS:156127
+	ECD13337             	(e-PCR)	Links:UniSTS:294367
+	REN62751             	(e-PCR)	Links:UniSTS:387551
+	REN63007             	(e-PCR)	Links:UniSTS:387807
+	REN63263             	(e-PCR)	Links:UniSTS:388063
+	GDB:210516           	(e-PCR)	Links:UniSTS:156128
+	ECD14628             	(e-PCR)	Links:UniSTS:295648
+	CFTR                 	(e-PCR), detects polymorphism	Links:UniSTS:253408
+	REN62752             	(e-PCR)	Links:UniSTS:387552
+	REN63008             	(e-PCR)	Links:UniSTS:387808
+	REN63264             	(e-PCR)	Links:UniSTS:388064
+	GDB:210519           	(e-PCR)	Links:UniSTS:156129
+	ECD08971             	(e-PCR)	Links:UniSTS:290017
+	REN62753             	(e-PCR)	Links:UniSTS:387553
+	REN63009             	(e-PCR)	Links:UniSTS:387809
+	REN63265             	(e-PCR)	Links:UniSTS:388065
+	GDB:210522           	(e-PCR)	Links:UniSTS:156130
+	REN62754             	(e-PCR)	Links:UniSTS:387554
+	REN63010             	(e-PCR)	Links:UniSTS:387810
+	REN63266             	(e-PCR)	Links:UniSTS:388066
+	GDB:182299           	(e-PCR)	Links:UniSTS:155363
+	GDB:210525           	(e-PCR)	Links:UniSTS:156131
+	REN62755             	(e-PCR)	Links:UniSTS:387555
+	REN63011             	(e-PCR)	Links:UniSTS:387811
+	REN63267             	(e-PCR)	Links:UniSTS:388067
+	GDB:210528           	(e-PCR)	Links:UniSTS:156132
+	REN62756             	(e-PCR)	Links:UniSTS:387556
+	REN63012             	(e-PCR)	Links:UniSTS:387812
+	REN63268             	(e-PCR)	Links:UniSTS:388068
+	GDB:210531           	(e-PCR)	Links:UniSTS:156133
+	GDB:631870           	(e-PCR)	Links:UniSTS:158437
+	ECD15148             	(e-PCR)	Links:UniSTS:296165
+	REN62757             	(e-PCR)	Links:UniSTS:387557
+	REN63013             	(e-PCR)	Links:UniSTS:387813
+	REN63269             	(e-PCR)	Links:UniSTS:388069
+	GDB:210534           	(e-PCR)	Links:UniSTS:156134
+	REN62758             	(e-PCR)	Links:UniSTS:387558
+	REN63014             	(e-PCR)	Links:UniSTS:387814
+	REN63270             	(e-PCR)	Links:UniSTS:388070
+	GDB:182312           	(e-PCR)	Links:UniSTS:155367
+	GDB:210540           	(e-PCR)	Links:UniSTS:156135
+	REN62759             	(e-PCR)	Links:UniSTS:387559
+	REN63015             	(e-PCR)	Links:UniSTS:387815
+	REN63271             	(e-PCR)	Links:UniSTS:388071
+	GDB:210543           	(e-PCR)	Links:UniSTS:156136
+	REN62760             	(e-PCR)	Links:UniSTS:387560
+	REN63016             	(e-PCR)	Links:UniSTS:387816
+	REN63272             	(e-PCR)	Links:UniSTS:388072
+	GDB:210546           	(e-PCR)	Links:UniSTS:156137
+	REN62761             	(e-PCR)	Links:UniSTS:387561
+	REN63017             	(e-PCR)	Links:UniSTS:387817
+	REN63273             	(e-PCR)	Links:UniSTS:388073
+	GDB:196681           	(e-PCR)	Links:UniSTS:155882
+	GDB:210549           	(e-PCR)	Links:UniSTS:156138
+	REN62762             	(e-PCR)	Links:UniSTS:387562
+	REN63018             	(e-PCR)	Links:UniSTS:387818
+	REN63274             	(e-PCR)	Links:UniSTS:388074
+	GDB:210552           	(e-PCR)	Links:UniSTS:156139
+	REN62763             	(e-PCR)	Links:UniSTS:387563
+	REN63019             	(e-PCR)	Links:UniSTS:387819
+	REN63275             	(e-PCR)	Links:UniSTS:388075
+	GDB:210556           	(e-PCR)	Links:UniSTS:156140
+	REN62764             	(e-PCR)	Links:UniSTS:387564
+	REN63020             	(e-PCR)	Links:UniSTS:387820
+	REN63276             	(e-PCR)	Links:UniSTS:388076
+	GDB:210560           	(e-PCR)	Links:UniSTS:156141
+	REN62765             	(e-PCR)	Links:UniSTS:387565
+	REN63021             	(e-PCR)	Links:UniSTS:387821
+	REN63277             	(e-PCR)	Links:UniSTS:388077
+	ECD05639             	(e-PCR)	Links:UniSTS:286702
+	GDB:210563           	(e-PCR)	Links:UniSTS:156142
+	REN62766             	(e-PCR)	Links:UniSTS:387566
+	REN63022             	(e-PCR)	Links:UniSTS:387822
+	REN63278             	(e-PCR)	Links:UniSTS:388078
+	GDB:210566           	(e-PCR)	Links:UniSTS:156143
+	REN62767             	(e-PCR)	Links:UniSTS:387567
+	REN63023             	(e-PCR)	Links:UniSTS:387823
+	REN63279             	(e-PCR)	Links:UniSTS:388079
+	GDB:210569           	(e-PCR)	Links:UniSTS:156144
+	ECD14901             	(e-PCR)	Links:UniSTS:295920
+	REN62768             	(e-PCR)	Links:UniSTS:387568
+	REN63024             	(e-PCR)	Links:UniSTS:387824
+	REN63280             	(e-PCR)	Links:UniSTS:388080
+	GDB:210572           	(e-PCR)	Links:UniSTS:156145
+	REN62769             	(e-PCR)	Links:UniSTS:387569
+	REN63025             	(e-PCR)	Links:UniSTS:387825
+	REN63281             	(e-PCR)	Links:UniSTS:388081
+	GDB:210575           	(e-PCR)	Links:UniSTS:156146
+	REN62770             	(e-PCR)	Links:UniSTS:387570
+	REN63026             	(e-PCR)	Links:UniSTS:387826
+	REN63282             	(e-PCR)	Links:UniSTS:388082
+	GDB:210581           	(e-PCR)	Links:UniSTS:156147
+	ECD17214             	(e-PCR)	Links:UniSTS:298227
+	REN62771             	(e-PCR)	Links:UniSTS:387571
+	REN63027             	(e-PCR)	Links:UniSTS:387827
+	REN63283             	(e-PCR)	Links:UniSTS:388083
+	GDB:210584           	(e-PCR)	Links:UniSTS:156148
+	REN62772             	(e-PCR)	Links:UniSTS:387572
+	REN63028             	(e-PCR)	Links:UniSTS:387828
+	REN63284             	(e-PCR)	Links:UniSTS:388084
+	ECD05903             	(e-PCR)	Links:UniSTS:286965
+	GDB:210587           	(e-PCR)	Links:UniSTS:156149
+	ECD16190             	(e-PCR)	Links:UniSTS:297205
+	REN62773             	(e-PCR)	Links:UniSTS:387573
+	REN63029             	(e-PCR)	Links:UniSTS:387829
+	REN63285             	(e-PCR)	Links:UniSTS:388085
+	GDB:210590           	(e-PCR)	Links:UniSTS:156150
+	REN62774             	(e-PCR)	Links:UniSTS:387574
+	REN63030             	(e-PCR)	Links:UniSTS:387830
+	REN63286             	(e-PCR)	Links:UniSTS:388086
+	ECD03839             	(e-PCR)	Links:UniSTS:284919
+	GDB:210593           	(e-PCR)	Links:UniSTS:156151
+	ECD17731             	(e-PCR)	Links:UniSTS:298743
+	REN62775             	(e-PCR)	Links:UniSTS:387575
+	REN63031             	(e-PCR)	Links:UniSTS:387831
+	REN63287             	(e-PCR)	Links:UniSTS:388087
+	GDB:210596           	(e-PCR)	Links:UniSTS:156152
+	REN62776             	(e-PCR)	Links:UniSTS:387576
+	REN63032             	(e-PCR)	Links:UniSTS:387832
+	REN63288             	(e-PCR)	Links:UniSTS:388088
+	REN62777             	(e-PCR)	Links:UniSTS:387577
+	REN63033             	(e-PCR)	Links:UniSTS:387833
+	REN63289             	(e-PCR)	Links:UniSTS:388089
+	ECD05136             	(e-PCR)	Links:UniSTS:286202
+	SHGC-79495           	(e-PCR)	Links:UniSTS:103418
+	ECD24162             	(e-PCR)	Links:UniSTS:305146
+	REN62778             	(e-PCR)	Links:UniSTS:387578
+	REN63034             	(e-PCR)	Links:UniSTS:387834
+	REN63290             	(e-PCR)	Links:UniSTS:388090
+	ECD00484             	(e-PCR)	Links:UniSTS:281595
+	ECD06679             	(e-PCR)	Links:UniSTS:287739
+	REN62779             	(e-PCR)	Links:UniSTS:387579
+	REN63035             	(e-PCR)	Links:UniSTS:387835
+	REN63291             	(e-PCR)	Links:UniSTS:388091
+	ECD06680             	(e-PCR)	Links:UniSTS:287740
+	ECD08484             	(e-PCR)	Links:UniSTS:289532
+	ECD19535             	(e-PCR)	Links:UniSTS:300540
+	REN62780             	(e-PCR)	Links:UniSTS:387580
+	REN63036             	(e-PCR)	Links:UniSTS:387836
+	REN63292             	(e-PCR)	Links:UniSTS:388092
+	REN62781             	(e-PCR)	Links:UniSTS:387581
+	REN63037             	(e-PCR)	Links:UniSTS:387837
+	REN63293             	(e-PCR)	Links:UniSTS:388093
+	REN62782             	(e-PCR)	Links:UniSTS:387582
+	REN63038             	(e-PCR)	Links:UniSTS:387838
+	REN63294             	(e-PCR)	Links:UniSTS:388094
+	REN62783             	(e-PCR)	Links:UniSTS:387583
+	REN63039             	(e-PCR)	Links:UniSTS:387839
+	REN63295             	(e-PCR)	Links:UniSTS:388095
+
+Related pseudogene(s)
+	3 foundReview record(s) in Gene, http://130.14.22.107/gene/?Term=related_functional_gene_1080%5Bgroup%5D
+
+
+Homology
+	Homologs of the CFTR gene
+		The CFTR gene is conserved in chimpanzee, Rhesus monkey, dog, cow, mouse, rat, chicken, zebrafish, and frog.
+	Orthologs from Annotation Pipeline (/gene/?Term=ortholog_gene_1080[group]): 
+	Orthologs
+
+Gene Ontology Provided by GOA (www.ebi.ac.uk/GOA)
+
+Function				      GO ID		Evidence
+-------------------------------------------------------------------------------------------------
+ATP binding                                   GO:0000000	-
+ATPase activity                               GO:0000000	PMID: 8910473,11524016
+ATPase activity, coupled to transmembran...   GO:0000000	PMID: 21873635
+PDZ domain binding                            GO:0000000	PMID: 11707463
+Sec61 translocon complex binding              GO:0000000	PMID: 9792704
+bicarbonate transmembrane transporter ac...   GO:0000000	PMID: 15010471,19019741
+bicarbonate transmembrane transporter ac...   GO:0000000	-
+chaperone binding                             GO:0000000	PMID: 16207813
+chloride channel activity                     GO:0000000	PMID: 11524016,11707463,15010471,18570918,19019741,22178883
+chloride channel activity                     GO:0000000	PMID: 19621064,24885604
+chloride channel inhibitor activity           GO:0000000	PMID: 22178883
+chloride channel regulator activity           GO:0000000	-
+chloride transmembrane transporter activ...   GO:0000000	-
+chloride transmembrane transporter activ...   GO:0000000	-
+enzyme binding                                GO:0000000	PMID: 19398555
+intracellularly ATP-gated chloride chann...   GO:0000000	PMID: 8910473
+intracellularly ATP-gated chloride chann...   GO:0000000	PMID: 11707463
+isomerase activity                            GO:0000000	-
+protein binding                               GO:0000000	PMID: 9671706,9792704,11707463,12369822,12471024,15247260,16203867,16546175,16901789,17110338,17244609,18555783,19289574,19878303,20658517,21884936,22038833,22121115,22178883,22768251,25661196,25712891,27092946,29924966
+
+Processs				      GO ID		Evidence
+-------------------------------------------------------------------------------------------------
+bicarbonate transport                         GO:0000000	PMID: 21873635
+bicarbonate transport                         GO:0000000	PMID: 15010471,19019741
+cellular response to cAMP                     GO:0000000	-
+cellular response to forskolin                GO:0000000	PMID: 15010471,19621064
+chloride transmembrane transport              GO:0000000	PMID: 21873635
+chloride transmembrane transport              GO:0000000	PMID: 11524016,11707463,19019741
+chloride transmembrane transport              GO:0000000	PMID: 19621064,24885604
+cholesterol biosynthetic process              GO:0000000	-
+cholesterol transport                         GO:0000000	-
+intracellular pH elevation                    GO:0000000	-
+membrane hyperpolarization                    GO:0000000	-
+membrane organization                         GO:0000000	-
+multicellular organismal water homeostas...   GO:0000000	PMID: 19621064
+positive regulation of cyclic nucleotide...   GO:0000000	PMID: 24885604
+positive regulation of exocytosis             GO:0000000	PMID: 24885604
+positive regulation of insulin secretion...   GO:0000000	PMID: 24885604
+positive regulation of insulin secretion...   GO:0000000	PMID: 24885604
+positive regulation of voltage-gated chl...   GO:0000000	PMID: 22006324
+protein deubiquitination                      GO:0000000	-
+response to endoplasmic reticulum stress      GO:0000000	PMID: 21884936,28067262
+sperm capacitation                            GO:0000000	-
+transepithelial water transport               GO:0000000	PMID: 19621064
+transmembrane transport                       GO:0000000	PMID: 21873635
+transmembrane transport                       GO:0000000	-
+vesicle docking involved in exocytosis        GO:0000000	-
+
+Component				      GO ID		Evidence
+-------------------------------------------------------------------------------------------------
+Golgi-associated vesicle membrane             GO:0000000	-
+apical plasma membrane                        GO:0000000	PMID: 21873635
+apical plasma membrane                        GO:0000000	PMID: 12801959,15247260,18570918,20658517,28130590
+apical plasma membrane                        GO:0000000	PMID: 19621064
+cell surface                                  GO:0000000	PMID: 20658517
+chloride channel complex                      GO:0000000	-
+clathrin-coated vesicle membrane              GO:0000000	-
+cytoplasm                                     GO:0000000	PMID: 18570918
+cytosol                                       GO:0000000	PMID: 21873635
+cytosol                                       GO:0000000	PMID: 24885604
+cytosol                                       GO:0000000	-
+early endosome                                GO:0000000	PMID: 19398555
+early endosome membrane                       GO:0000000	-
+endoplasmic reticulum membrane                GO:0000000	PMID: 11707463
+endoplasmic reticulum membrane                GO:0000000	-
+endosome membrane                             GO:0000000	-
+integral component of membrane                GO:0000000	PMID: 8910473
+integral component of plasma membrane         GO:0000000	PMID: 11524016,15010471
+integral component of plasma membrane         GO:0000000	PMID: 11707463
+lysosomal membrane                            GO:0000000	-
+membrane                                      GO:0000000	PMID: 21873635
+nucleus                                       GO:0000000	-
+plasma membrane                               GO:0000000	PMID: 21873635
+plasma membrane                               GO:0000000	PMID: 21884936,22178883,24885604,28067262,28130590
+plasma membrane                               GO:0000000	-
+protein-containing complex                    GO:0000000	PMID: 17462998
+recycling endosome                            GO:0000000	PMID: 18570918
+recycling endosome membrane                   GO:0000000	-
+
+GENERAL PROTEIN INFORMATION
+-------------------------------------------------------------------------------------------------
+Preferred Names
+	cystic fibrosis transmembrane conductance regulator
+Names
+	cAMP-dependent chloride channel
+	channel conductance-controlling ATPase
+	cystic fibrosis transmembrane conductance regulating
+	cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)
+NP_000483.3
+	EC 5.6.1.6
+
+NCBI REFERENCE SEQUENCES (RefSeq)
+-------------------------------------------------------------------------------------------------
+
+RefSeqs maintained independently of Annotated Genomes
+
+These reference sequences exist independently of genome builds.
+These reference sequences are curated independently of the genome annotation cycle, 
+so their versions may not match the RefSeq versions in the current genome build. 
+Identify version mismatches by comparing the version of the RefSeq in this section to 
+the one reported in Genomic regions, transcripts, and products section above.
+
+	Genomic
+		NG_016465.4 RefSeqGene
+		Range   	19179..207881
+		Download	GenBank FASTA Sequence Viewer (Graphics) 
+
+
+
+	mRNA and Protein(s) 
+
+	NM_000492.4 → NP_000483.3  REVIEWEDcystic fibrosis transmembrane conductance regulator
+
+	See proteins identical to NP_000483.3 at http://130.14.22.107/ipg/NP_000483.3/
+
+	Source sequence(s): AC000061, AC000111, M28668 
+	  Consensus CDS: CCDS5773.1
+	  UniProtKB/TrEMBL: A0A024R730
+	  UniProtKB/Swiss-Prot: P13569
+
+	Related Ensembl: ENSP00000003084.6, ENST00000003084.11
+	  Conserved Domains (5)summary
+		cd03289: 
+		Location:1208 - 1480
+		ABCC_CFTR2; ATP-binding cassette domain 2 of CFTR,subfamily C
+		cd03291: 
+		Location:389 - 670
+		ABCC_CFTR1; ATP-binding cassette domain of the cystic fibrosis transmembrane regulator, subfamily C
+		TIGR01271: 
+		Location:1 - 1480
+		CFTR_protein; cystic fibrosis transmembrane conductor regulator (CFTR)
+		pfam00664: 
+		Location:866 - 1147
+		ABC_membrane; ABC transporter transmembrane region
+		pfam14396: 
+		Location:639 - 849
+		CFTR_R; Cystic fibrosis TM conductance regulator (CFTR), regulator domain
+
+RefSeqs of Annotated Genomes: Homo sapiens Updated Annotation Release 109.
+The following sections contain reference sequences that belong to a specific genome build. 
+This section includes genomic Reference Sequences (RefSeqs) from all assemblies on which 
+this gene is annotated, such as RefSeqs for chromosomes and scaffolds (contigs) from both 
+reference and alternate assemblies. Model RNAs and proteins are also reported here.
+
+Reference GRCh38.p13 Primary Assembly
+
+	Genomic
+		NC_000007.14 Reference GRCh38.p13 Primary Assembly
+		Range   	117480024..117668664
+		Download	GenBank FASTA Sequence Viewer (Graphics) 
+
+
+
+RELATED SEQUENCES
+-------------------------------------------------------------------------------------------------
+
+Nucleotide			Protein
+-------------------------------------------------------------------------------------------------
+genomic             		AC000061.1	AAB46340.2
+genomic             		AC000111.1	AAB46352.1
+genomic             		AH002640.2	None
+genomic             		AH002641.2	None
+genomic             		AH002642.2	None
+genomic             		AH002643.2	None
+genomic             		AH002644.2	None
+genomic             		AH002645.2	None
+genomic             		AH002646.2	None
+genomic             		AH003770.2	AAB20218.2
+genomic             		AH006034.2	AAC13657.1
+genomic             		AJ574939.1	CAE00653.1
+genomic             		AJ574940.2	CAE00654.2
+genomic             		AJ574941.1	CAE00655.1
+genomic             		AJ574942.1	CAE00656.1
+genomic             		AJ574943.1	CAE00657.1
+genomic             		AJ574944.1	CAE00658.1
+genomic             		AJ574945.1	CAE00659.1
+genomic             		AJ574946.1	CAE00660.1
+genomic             		AJ574947.1	CAE00661.2
+genomic             		AJ574948.1	CAE00662.1
+genomic             		AJ574949.1	CAE00663.1
+genomic             		AJ574950.1	CAE00664.1
+genomic             		AJ574951.1	CAE00665.1
+genomic             		AJ574952.1	CAE00666.1
+genomic             		AJ574953.1	CAE00667.1
+genomic             		AJ574954.1	CAE00668.1
+genomic             		AJ574955.1	CAE00669.1
+genomic             		AJ574956.1	CAE00670.1
+genomic             		AJ574957.1	CAE00671.1
+genomic             		AJ574958.1	CAE00672.1
+genomic             		AJ574959.1	CAE00673.1
+genomic             		AJ574960.1	CAE00674.1
+genomic             		AJ574961.1	CAE00675.1
+genomic             		AJ574962.1	CAE00676.1
+genomic             		AJ574963.1	CAE00677.1
+genomic             		AJ574964.1	CAE00678.1
+genomic             		AJ574965.1	CAE00679.1
+genomic             		AJ574966.1	CAE00680.1
+genomic             		AJ574967.1	CAE00681.1
+genomic             		AJ574968.1	CAE00682.1
+genomic             		AJ574969.1	CAE00683.1
+genomic             		AJ574970.1	CAE00684.1
+genomic             		AJ574971.1	CAE00685.1
+genomic             		AJ574972.1	CAE00686.1
+genomic             		AJ574973.1	CAE00687.1
+genomic             		AJ574974.1	CAE00688.1
+genomic             		AJ574975.1	CAE00689.1
+genomic             		AJ574976.1	CAE00690.1
+genomic             		AJ574977.1	CAE00691.1
+genomic             		AJ574978.1	CAE00692.1
+genomic             		AJ574979.1	CAE00693.1
+genomic             		AJ574980.1	CAE00694.1
+genomic             		AJ574981.1	CAE00695.1
+genomic             		AJ574982.1	CAE00696.1
+genomic             		AJ574983.1	CAE00697.1
+genomic             		AJ574984.1	CAE00698.1
+genomic             		AJ574985.1	CAE00699.1
+genomic             		AJ574986.1	CAE00700.1
+genomic             		AJ574987.1	CAE00701.1
+genomic             		AJ574988.1	CAE00702.1
+genomic             		AJ574989.1	CAE00703.1
+genomic             		AJ574990.1	CAE00704.1
+genomic             		AJ574991.1	CAE00705.1
+genomic             		AJ574992.1	CAE00706.1
+genomic             		AJ574993.1	CAE00707.1
+genomic             		AJ574994.1	CAE00708.1
+genomic             		AJ574995.1	CAE00709.1
+genomic             		AJ574996.1	CAE00710.1
+genomic             		AJ574997.1	CAE00711.1
+genomic             		AJ574998.1	CAE00712.1
+genomic             		AJ574999.1	CAE00713.1
+genomic             		AJ575000.1	CAE00714.1
+genomic             		AJ575001.1	CAE00715.1
+genomic             		AJ575002.1	CAE00716.1
+genomic             		AJ575003.1	CAE00717.1
+genomic             		AJ575004.1	CAE00718.1
+genomic             		AJ575005.1	CAE00719.1
+genomic             		AJ575006.1	CAE00720.1
+genomic             		AJ575007.1	CAE00721.1
+genomic             		AJ575008.1	CAE00722.1
+genomic             		AJ575009.1	CAE00723.1
+genomic             		AJ575010.1	CAE00724.1
+genomic             		AJ575011.1	CAE00725.1
+genomic             		AJ575012.1	CAE00726.1
+genomic             		AJ575013.1	CAE00727.1
+genomic             		AJ575014.1	CAE00728.1
+genomic             		AJ575015.1	CAE00729.1
+genomic             		AJ575016.1	CAE00730.1
+genomic             		AJ575017.1	CAE00731.1
+genomic             		AJ575018.1	CAE00732.1
+genomic             		AJ575019.1	CAE00733.1
+genomic             		AJ575020.1	CAE00734.1
+genomic             		AJ575021.1	CAE00735.1
+genomic             		AJ575022.1	CAE00736.1
+genomic             		AJ575023.1	CAE00737.1
+genomic             		AJ575024.1	CAE00738.2
+genomic             		AJ575025.1	CAE00739.1
+genomic             		AJ575026.1	CAE00740.1
+genomic             		AJ575027.1	CAE00741.1
+genomic             		AJ575028.1	CAE00742.1
+genomic             		AJ575029.1	CAE00743.1
+genomic             		AJ575030.1	CAE00744.1
+genomic             		AJ575031.1	CAE00745.1
+genomic             		AJ575032.1	CAE00746.1
+genomic             		AJ575033.1	CAE00747.1
+genomic             		AJ575034.1	CAE00748.1
+genomic             		AJ575035.1	CAE00749.1
+genomic             		AJ575036.1	CAE00750.1
+genomic             		AJ575037.1	CAE00751.1
+genomic             		AJ575038.1	CAE00752.1
+genomic             		AJ575039.1	CAE00753.1
+genomic             		AJ575040.1	CAE00754.1
+genomic             		AJ575041.2	CAE00755.2
+genomic             		AJ575042.1	CAE00756.1
+genomic             		AJ575043.1	CAE00757.1
+genomic             		AJ575044.1	CAE00758.1
+genomic             		AJ575045.1	CAE00759.1
+genomic             		AJ575046.1	CAE00760.1
+genomic             		AJ575047.1	CAE00761.1
+genomic             		AJ575048.1	CAE00762.1
+genomic             		AJ575049.1	CAE00763.1
+genomic             		AJ575050.1	CAE00764.1
+genomic             		AJ575051.1	CAE00765.1
+genomic             		AJ575052.1	CAE00766.1
+genomic             		AJ575053.1	CAE00767.1
+genomic             		AJ575054.1	CAE00768.1
+genomic             		AJ575055.1	CAE00769.1
+genomic             		AY444356.1	None
+genomic             		AY848828.1	AAW33655.1
+genomic             		AY848829.1	AAW33656.1
+genomic             		AY848830.1	AAW33657.1
+genomic             		AY848831.1	AAW33658.1
+genomic             		AY848832.1	AAW33659.1
+genomic             		AY849794.1	AAW33782.1
+genomic             		CH236947.1	EAL24353.1
+genomic             		CH471070.1	EAW83529.1
+				EAW83530
+				EAW83531
+genomic             		DQ354388.1	ABC79050.1
+genomic             		DQ354389.1	ABC79052.1
+genomic             		DQ354390.1	ABC79054.1
+genomic             		DQ354391.1	ABC79056.1
+genomic             		DQ356257.1	ABC87053.1
+genomic             		DQ356258.1	ABC87055.1
+genomic             		DQ356259.1	ABC87057.1
+genomic             		DQ356260.1	ABC87059.1
+genomic             		DQ356261.1	ABC87061.1
+genomic             		DQ356262.1	ABC87063.1
+genomic             		DQ356263.1	ABC87065.1
+genomic             		DQ356264.1	ABC87067.1
+genomic             		DQ388128.1	ABD72183.1
+genomic             		DQ388129.1	ABD72185.1
+genomic             		DQ388130.1	ABD72187.1
+genomic             		DQ388131.1	ABD72189.1
+genomic             		DQ388132.1	ABD72191.1
+genomic             		DQ388133.1	ABD72193.1
+genomic             		DQ388134.1	ABD72195.1
+genomic             		DQ388135.1	ABD72197.1
+genomic             		DQ388136.1	ABD72199.1
+genomic             		DQ388137.1	ABD72201.1
+genomic             		DQ388138.1	ABD72203.1
+genomic             		DQ388139.1	ABD72205.1
+genomic             		DQ388140.1	ABD72207.1
+genomic             		DQ388141.1	ABD72209.1
+genomic             		DQ388142.1	ABD72211.1
+genomic             		DQ388143.1	ABD72213.1
+genomic             		DQ388144.1	ABD72215.1
+genomic             		DQ388145.1	ABD72217.1
+genomic             		DQ504435.1	ABF72845.1
+genomic             		EF466097.1	ABO61515.1
+genomic             		HM763557.1	None
+genomic             		JX237460.1	AFP72354.1
+genomic             		JX237461.1	AFP72355.1
+genomic             		KF458571.1	None
+genomic             		KF458577.1	None
+genomic             		KF680934.1	AIS25620.1
+genomic             		KF680935.1	AIS25621.1
+genomic             		KF680936.1	AIS25622.1
+genomic             		KF680937.1	AIS25623.1
+genomic             		KF680938.1	AIS25624.1
+genomic             		KF680939.1	AIS25625.1
+genomic             		KF680940.1	AIS25626.1
+genomic             		KF680941.1	AIS25627.1
+genomic             		KF680942.1	AIS25628.1
+genomic             		KF738596.1	AIQ84249.1
+genomic             		KF738597.1	AIQ84250.1
+genomic             		KJ159561.1	None
+genomic             		KJ159564.1	None
+genomic             		KJ606925.1	AIC64237.1
+genomic             		KM014731.1	AIO11142.1
+genomic             		KM014732.1	AIO11143.1
+genomic             		KM596832.1	AIZ78009.1
+genomic             		KT121468.1	AMY29341.1
+genomic             		KU325495.1	None
+genomic             		KU325496.1	None
+genomic             		KU325497.1	ANO46461.1
+genomic             		KU325498.1	ANO46462.1
+genomic             		L49160.1	None
+genomic             		L49339.1	AAC41928.1
+genomic             		L49340.1	AAC41927.1
+genomic             		M55025.1(8..199)	None
+genomic             		M55026.1	None
+genomic             		M55027.1	None
+genomic             		M55028.1	None
+genomic             		M55029.1	None
+genomic             		M55030.1	None
+genomic             		M55031.1	None
+genomic             		M55032.1	None
+genomic             		M55033.1	None
+genomic             		M55034.1(8..199)	None
+genomic             		M55035.1(8..199)	None
+genomic             		M55036.1	None
+genomic             		M55037.1	None
+genomic             		M57509.1(421..603)	None
+genomic             		M65196.1	AAA51979.1
+genomic             		M65197.1	AAA51980.1
+genomic             		M65198.1	None
+genomic             		M86631.1	None
+genomic             		M96936.1	AAB59381.1
+				AAB59382
+genomic             		MF167456.1	ATW01295.1
+genomic             		X53294.1	None
+mRNA                		BC143713.1	None
+mRNA                		M28668.1	AAA35680.1
+mRNA                		S64699.1	AAB27879.2
+mRNA                		S82430.1	AAD14390.1
+mRNA                		X73053.1	None
+
+Protein Accession		Links
+-------------------------------------------------------------------------------------------------
+P13569.3       	GenPept(/protein/147744553)		UniProtKB/Swiss-Prot:P13569
+
+GENE LINKOUT
+-------------------------------------------------------------------------------------------------
+The following LinkOut(www.ncbi.nlm.nih.gov/projects/linkout/index.html) resources
+are supplied by external providers. These providers are responsible for
+maintaining the links.
+
+Chemical Information
+  (Free resource) (free) Interologous Interaction Database
+	Interologous Interaction Database
+  (Order form) MilliporeSigma
+	CFTR productsCFTR products
+  (Order form) Novus Biologicals
+	Peptides and ProteinsPeptides and ProteinsPrimary AntibodiesPrimary AntibodiesLysatesLysates
+
+Medical
+  (Free resource) (free) Genetics Home Reference
+	CFTR geneCFTR gene
+
+Molecular Biology Databases
+  (Free resource) (free) BioGPS
+	BioGPS
+  (Free resource) (free) BioGRID Open Repository of CRISPR Screens (ORCS)
+	BioGRID CRISPR Screen Phenotypes (4 hits/874 screens)BioGRID CRISPR Screen Phenotypes (4 hits/874 screens)
+  (Free resource) (free) CREB Target Gene Database
+	CREB Target Gene Database
+  (Free resource) (free) Eukaryotic Promoter Database
+	CFTR_1CFTR_1
+  (Order form) GenScript latest version of gene cDNA ORF Clone
+	GenScript latest version of gene cDNA ORF Clone
+  (Free resource) (free) GeneNetwork
+	Records for gene expression in HumanRecords for gene expression in Human
+  (Free resource) (free) Genevisible
+	CFTRCFTR
+  (Free resource) (free) Guide to Pharmacology
+	CFTR geneCFTR gene
+  (Free resource) (Free registration required) (free) Human Gene Mutation Database
+	Human Gene Mutation Database
+  (Free resource) (free) Human eFP Browser
+	Human eFP BrowserHuman eFP BrowserHuman eFP Browser
+  Ingenuity Pathways Analysis
+	Ingenuity Pathways Analysis
+  (Free resource) (free) InnateDB
+	InnateDB
+  (Free resource) (free) InterMine
+	InterMine
+  (Free resource) (free) Kyoto Encyclopedia of Genes and Genomes
+	Kyoto Encyclopedia of Genes and Genomes
+  (Free resource) (free) LSDB from Gene
+	CFTR2CFTR2Locus Specific Mutation Database DirectoryLocus Specific Mutation Database DirectoryCystic Fibrosis Mutation DatabaseCystic Fibrosis Mutation Database
+  (Free resource) (free) Monarch Initiative
+	Monarch InitiativeMonarch Initiative
+  (Free resource) (free) Nuclear Receptor Signaling Atlas (NURSA)
+	Transcriptomine: regulation of the CFTR gene by nuclear receptor signaling pathwaysTranscriptomine: regulation of the CFTR gene by nuclear receptor signaling pathways
+  (Free resource) (free) OMA Browser: Orthologous MAtrix
+	OMA Browser: Orthologous MAtrix
+  (Free resource) (free) OrthoDB catalog of orthologs
+	OrthologsOrthologs
+  (Free resource) (free) Pharmacogenomics Knowledge Base
+	Annotated Pharmacogenomic Information for CFTR [PharmGKB]Annotated Pharmacogenomic Information for CFTR [PharmGKB]
+  (Free resource) (free) PhosphoSitePlus
+	PhosphoSitePlus® - comprehensive post-translational modification resourcePhosphoSitePlus® - comprehensive post-translational modification resource
+  (Free resource) (free) Protein Ontology Consortium
+	Protein Ontology Consortium
+  (Free resource) (free) The Gene Wiki
+	The Gene Wiki
+  (Free resource) (free) The Weizmann Institute of Science GeneCards and MalaCards databases
+	GeneCard for CFTRGeneCard for CFTR
+  (Free resource) (free) Vertebrate Genome Annotation (VEGA) database
+	Vertebrate Genome Annotation (VEGA) database
+  (Free resource) (free) iRefWeb - iRefIndex release 9.0 - Consolidated Interactome
+	iRefWeb - iRefIndex release 9.0 - Consolidated Interactome
+
+Research Materials
+  (Order form) Addgene Non-profit plasmid repository
+	Get Plasmids - AddgeneGet Plasmids - Addgene
+  ExactAntigen/Labome
+	reagent reviewreagent reviewreagentsreagents
+  (Order form) GeneCopoeia Inc.
+	Order miRNA target clonesOrder miRNA target clonesOrder shRNA clonesOrder shRNA clonesOrder promoter cloneOrder promoter clone
+  GeneTex Inc
+	Quality AntibodiesQuality Antibodies
+  LifeSpan BioSciences, Inc.
+	LSBio CFTR Elisa KitsLSBio CFTR Elisa KitsLSBio CFTR AntibodiesLSBio CFTR AntibodiesLSBio CFTR ProteinsLSBio CFTR Proteins
+
+Tools
+  (Free resource) (free) GeneMANIA
+	GeneMANIA

@@ -1,0 +1,1351 @@
+<!DOCTYPE html>
+
+
+
+
+<html lang="en" >
+<head >
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <!-- Mobile properties -->
+    <meta name="HandheldFriendly" content="True">
+    <meta name="MobileOptimized" content="320">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+    <!-- Stylesheets -->
+    
+    <link href="/clinvar/static/django_uswds/uswds/css/uswds.css" rel="stylesheet" />
+    
+  
+  
+    <link rel="stylesheet" href="/clinvar/static/nwds/css/nwds.css" />
+    <link rel="stylesheet" href="/clinvar/static/nwds/css/header.css" />
+    <link rel="stylesheet" href="/clinvar/static/nwds/css/footer.css" />
+    <link rel="stylesheet" href="/clinvar/static/nwds/css/form.css" />
+  
+
+  
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css"/>
+  
+
+
+    <title>VCV000058493.1 - ClinVar - NCBI</title>
+
+  
+    <meta name="ncbi_uid" content="58493"/>
+    
+    
+  <!-- Favicons -->
+  <link rel="shortcut icon" type="image/ico" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.ico" />
+  <link rel="icon" type="image/png" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon.png" />
+
+  <!-- 192x192, as recommended for Android
+  http://updates.html5rocks.com/2014/11/Support-for-theme-color-in-Chrome-39-for-Android
+  -->
+  <link rel="icon" type="image/png" sizes="192x192" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-192.png" />
+
+  <!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+  <link rel="apple-touch-icon-precomposed" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-57.png">
+  <!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+  <link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-72.png">
+  <!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+  <link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-114.png">
+  <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+  <link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://www.ncbi.nlm.nih.gov/coreutils/nwds/img/favicons/favicon-144.png">
+
+
+    
+    <!-- Logging params: Pinger defaults -->
+
+<meta name="ncbi_app" content="clinvar" />
+
+<meta name="ncbi_db" content="clinvar" />
+
+<meta name="ncbi_pdid" content="variation_record" />
+
+<meta name="ncbi_phid" content="939B4461798301C50000565F9789926C.1.m_23" />
+
+
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    
+        <link href="/clinvar/static/clinvar_base/accessible-mega-menu.css" rel="stylesheet" type="text/css">
+        <link href="/clinvar/static/clinvar_base/vendor/Accessible-Mega-Menu/megamenu.css" rel="stylesheet" type="text/css">
+        <link href="/clinvar/static/variation/uswds-style-guide.css" rel="stylesheet" type="text/css">
+        <link href="/clinvar/static/variation/app.css" rel="stylesheet" type="text/css">
+    
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+
+    
+    
+        <link href="/clinvar/static/variation/jquery-accessible-tabs.css" rel="stylesheet" type="text/css">
+        <link href="/clinvar/static/variation/print.css" media="print" rel="stylesheet" type="text/css">
+    
+    
+        <script type="text/javascript" src="/clinvar/static/variation/cookies.js"></script>
+        <script type="text/javascript" src="/clinvar/static/variation/follow_clinsig.js?v=2"></script>
+        <script type="text/javascript" src="/clinvar/static/variation/record-page.js"></script>
+    
+
+
+</head>
+<body >
+
+  
+    <a class="usa-skipnav" href="#main_content">Skip to main page content</a>
+
+    <!-- ========== BEGIN HEADER ========== -->
+<div class="usa-overlay"></div>
+<header class="ncbi-header" role="banner" data-section="Header">
+
+	<div class="usa-grid">
+		<div class="usa-width-one-whole">
+			<div class="agencies">
+				<div class="nih"><span class="usa-sr-only">National Institutes of Health</span></div>
+				<div class="nlm">National Library of Medicine</div>
+				<div class="ncbi">National Center for Biotechnology Information</div>
+				<a href="https://www.ncbi.nlm.nih.gov/" class="homepage"><span class="usa-sr-only" id="header_ncbi">NCBI homepage</span></a>
+			</div>
+
+			<div class="account">
+				<a id="account_login" href="/labs/account/" class="set-base-url usa-button header-button" style="display:none">Log in</a>
+				<button id="account_info" class="header-button" style="display:none"
+						aria-controls="account_popup">
+					<span class="fa fa-user" aria-hidden="true"></span>
+					<span class="username desktop-only" aria-hidden="true" id="uname_short"></span>
+					<span class="sr-only">Show account info</span>
+				</button>
+			</div>
+
+			<div class="ncbi-popup-anchor">
+				<div class="ncbi-popup account-popup" id="account_popup" aria-hidden="true">
+					<div class="ncbi-popup-head">
+						<button class="ncbi-close-button"><span class="fa fa-close"></span><span class="usa-sr-only">Close</span></button>
+						<h4>Account</h4>
+					</div>
+					<div class="account-user-info">
+						Logged in as:<br/>
+						<b><span class="username" id="uname_long">username</span></b>
+					</div>
+					<div class="account-links">
+						<ul class="usa-unstyled-list">
+							<li><a id="account_myncbi" href="/myncbi/" class="set-base-url">Dashboard</a> <span class="ncbi-text-small-light">(My NCBI)</span></li>
+							<li><a id="account_pubs" href="/myncbi/collections/bibliography/" class="set-base-url">Publications</a> <span class="ncbi-text-small-light">(My Bibliography)</span></li>
+							<li><a id="account_settings" href="/account/settings/" class="set-base-url">Account settings</a></li>
+							<li><a id="account_logout" href="/account/signout/" class="set-base-url">Log out</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+		</div>
+	</div>
+</header>
+<a id="nws_header_accesskey_0" href="https://www.ncbi.nlm.nih.gov/guide/browsers/#ncbi_accesskeys" class="usa-sr-only" accesskey="0" tabindex="-1">Access keys</a>
+<a id="nws_header_accesskey_1" href="https://www.ncbi.nlm.nih.gov" class="usa-sr-only" accesskey="1" tabindex="-1">NCBI Homepage</a>
+<a id="nws_header_accesskey_2" href="/myncbi/" class="set-base-url usa-sr-only" accesskey="2" tabindex="-1">MyNCBI Homepage</a>
+<a id="nws_header_accesskey_3" href="#maincontent" class="usa-sr-only" accesskey="3" tabindex="-1">Main Content</a>
+<a id="nws_header_accesskey_4" href="#" class="usa-sr-only" accesskey="4" tabindex="-1">Main Navigation</a>
+<!-- ========== END HEADER ========== -->
+
+
+    
+
+    
+
+<div id="main_content" class="ncbi-base-page-container">
+
+<div class="sub-header">
+    <div class="usa-grid-full">
+        <div class="usa-width-one-half">
+            <h1><a href="/clinvar/">ClinVar</a> <span class="uswds-gray tagline">Genomic variation as it relates to human health</span></h1>
+        </div>
+        <div class="usa-width-one-half">
+            <form name="submitSearchTerm" class="usa-search" action="/clinvar/" method="get" autocomplete="off">
+                <div role="search">
+                    <label class="usa-sr-only" for="search-field">Search ClinVar</label>
+                    <input id="search-field" name="term" type="search">
+                    <button type="submit">
+                    <span class="usa-search-submit-text">Search<span class="long-search-button"> ClinVar</span></span>
+                    </button>
+                </div>
+            </form>
+            <a href="https://www.ncbi.nlm.nih.gov/clinvar/advanced/" class="advanced-search">Advanced search</a>
+        </div>
+    </div>
+    <nav class="usa-grid-full subheader-flex">
+        <ul class="usa-unstyled-list nav-menu">
+            <li class="nav-item">
+                <a href="/clinvar/intro/">About</a>
+                <div class="sub-nav">
+                    <ul class="sub-nav-group">
+                        <li><a href="/clinvar/intro/">Introduction</a></li>
+                        <li><a href="">Data authorities</a></li>
+                        <li><a href="">Clinical significance</a></li>
+                        <li><a href="">HGVS expressions</a></li>
+                        <li><a href="">Submitters</a></li>
+                        <li><a href="">Data dictionary</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a href="/clinvar/docs/maintenance_use/">Access</a>
+                <div class="sub-nav">
+                    <ul class="sub-nav-group">
+                        <li><a href="/clinvar/docs/maintenance_use/">Access and releases</a></li>
+                        <li><a href="/clinvar/docs/linking">Linking to ClinVar</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a href="/clinvar/docs/submit/">Submit</a>
+                <div class="sub-nav">
+                    <ul class="sub-nav-group">
+                        <li><a href="/clinvar/docs/submit/">Submission overview</a></li>
+                        <li><a href="https://ftp.ncbi.nlm.nih.gov/pub/clinvar/submission_templates/">Spreadsheets</a></li>
+                        <li><a href="/clinvar/docs/spreadsheet/">Instructions for spreadsheets</a></li>
+                        <li><a href="https://submit.ncbi.nlm.nih.gov/subs/variation/">Submission Portal</a></li>
+                        <li><a href="/clinvar/docs/faq_submitters/">FAQ for submissions</a></li>
+                        <li><a href="/clinvar/docs/assertion_criteria/">Assertion criteria</a></li>
+                        <li><a href="/clinvar/docs/review_guidelines/">Expert panels and practice guidelines</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a href="/clinvar/submitters/">Stats</a>
+                <div class="sub-nav">
+                    <ul class="sub-nav-group">
+                        <li><a href="/clinvar/submitters/">Statistics</a></li>
+                        <li><a href="/clinvar/docs/submitter_list/">List of submitters</a></li>
+                        <li><a href="/clinvar/docs/datasources/">Submitting groups</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a href="/clinvar/docs/ftp_primer/">FTP</a>
+                <div class="sub-nav">
+                    <ul class="sub-nav-group">
+                        <li><a href="https://ftp.ncbi.nlm.nih.gov/pub/clinvar/">Go to the FTP site</a></li>
+                        <li><a href="/clinvar/docs/ftp_primer/">Overview</a></li>
+                    </ul>
+                </div>
+            </li>
+            <li class="nav-item">
+                <a href="/clinvar/docs/help/">Help</a>
+                <div class="sub-nav">
+                    <ul class="sub-nav-group">
+                        <li><a href="/clinvar/docs/help/">How to search ClinVar</a></li>
+                        <li><a href="/clinvar/docs/variation_report/">Using the ClinVar variation display</a></li>
+                        <li><a href="/clinvar/docs/details/">Using the ClinVar record display</a></li>
+                        <li><a href="/clinvar/docs/compare_displays/">Comparing the variation and record displays</a></li>
+                        <li><a href="/clinvar/docs/faq/">FAQ</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+        <div class="vote">
+            <span class="ncbi-vote-helpful" data-ga-category="featured_feedback" data-link-style="icon"></span>
+        </div>
+    </nav>
+</div>
+
+    <main>
+
+        
+        <div class="usa-grid-full alphabar">
+            
+                <div class="usa-width-one-third">
+                    
+                </div>
+
+                <div class="share-links usa-width-one-third">
+                    <a href="" download><span class="fa fa-download" aria-hidden="true"></span> Download</a>
+                    <a class="print-button" href=""><span class="fa fa-print" aria-hidden="true"></span> Print</a>
+                    <a id="a-help-follow" href="#" class="hoverpopup" aria-controls="div-help-follow" aria-expanded="false" aria-haspopup="true">
+                        <span class="fa fa-question-circle"></span>
+                        <span class="usa-sr-only">Help</span>
+                    </a>
+                    <span class="follow-waiting follow-waiting-off"><span><img src="/clinvar/static/variation/loading.gif"></span></span>
+                    <a class="follow-button follow-button-not" href="#"><span><!-- Follow --></span></a>
+                    <a id="a-follow-warning" class="follow-warning-off" href="#"
+                          class="hoverpopup" aria-controls="div-follow-warning" aria-expanded="false" aria-haspopup="true">&#9888;</a>
+                </div>
+                <!-- div class="feedback"><a href="https://www.research.net/r/TB92GYK" target="_blank">Feedback</a></div -->
+            
+        </div>
+        <div class="usa-grid-full usa-color-primary-darker ">
+           <div style="display: none;" class="ncbi-popup hovertarget" aria-hidden="true" aria-expanded="false" aria-labelledby="a-help-follow" id="div-help-follow">Follow this variant to be <a target="_blank" href="/clinvar/docs/alerts/">notified when its overall interpretation changes</a>.</div>
+            <div style="display: none;" class="ncbi-popup hovertarget" aria-hidden="true" aria-expanded="false"
+              aria-labelledby="a-follow-warning" id="div-follow-warning">
+              <p>The e-mail associated with your My NCBI account has not been verified so you will not receive e-mail when the interpretation of this variant changes.</p>
+              <p>To verify your e-mail, go to <a target="_blank" href="/account/settings/">NCBI Account Settings</a> and under your e-mail address select &quot;Request a confirmation email.&quot;</p>
+              <p>Learn more about how <a href="https://www.ncbi.nlm.nih.gov/clinvar/docs/alerts" target="_blank">ClinVar alerts</a> work.</p>
+            </div>
+            <h2 class="usa-color-text usa-color-text-white blue-box">
+                GRCh38/hg38 7p22.3-q36.3(chr7:53985-159282531)x1
+                
+            </h2>
+            <a
+             href="javascript:void(0);"
+             class="a-subint-comment"
+             id="a-cit-text"
+             aria-controls="dlg-cit-text">
+            <button class="blue-box">Cite this record</button>
+            </a>
+            <div aria-hidden="true" class="dlg-subint-comment" id="dlg-cit-text">
+                <div class="heading">Cite this record
+                <button class="ncbi-close-button ok-subint-comment" id="ok-cit-text">
+                    <span class="fa fa-close"><span class="usa-sr-only">Close</span></span>
+                </button>
+                </div>
+                <textarea class="content" id="cite" readonly>National Center for Biotechnology Information. ClinVar; [VCV000058493.1], https://www.ncbi.nlm.nih.gov/clinvar/variation/VCV000058493.1 (accessed June 27, 2020).</textarea>
+                <div class="button">
+                    <button class="ok-subint-comment" onclick="citeFunction()">Copy</button>
+                </div>
+            </div>
+        </div>
+        
+        <div class="variant-box-container usa-grid-full">
+            <div class="usa-grid">
+                <div class="usa-width-one-whole variant-box">
+                    <a target="_blank" href="/clinvar/docs/variation_report/#interpretation" class="usa-grid-full"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a>
+                    <dl class="no-margin-top">
+                        <dt>Interpretation:</dt>
+                        <dd class="bold margin-bottom">
+                            
+                            Pathogenic&#x200B;
+                            <p>
+                            
+                            </p>
+                        </dd>
+                        
+                        <dt>Review status:</dt>
+                        <dd><a href="/clinvar/docs/review_status/">
+                            <span class="fa fa-star"></span> <span class="fa fa-star-o"></span> <span class="fa fa-star-o"></span> <span class="fa fa-star-o"></span> 
+                            criteria provided, single submitter
+                            </a>
+                            
+                        </dd>
+                        <dt>Submissions:</dt>
+                        <dd>1
+                            
+                                (Most recent: Jun 21, 2014)
+                            
+                        </dd>
+                        
+                            <dt>Last evaluated:</dt>
+                            <dd>Aug 12, 2011</dd>
+                        
+                        
+                            <dt>Accession:</dt>
+                            <dd>VCV000058493.1</dd>
+                        
+                        <dt>Variation ID:</dt>
+                        <dd>58493</dd>
+                        
+                            <dt>Description:</dt>
+                            <dd>159.2Mb copy number loss</dd>
+                        
+                    </dl>
+                    
+                </div>
+            </div>
+        </div>
+
+
+        <div class="js-tabs usa-grid-full">
+            <ul class="js-tablist usa-width-one-fourth usa-unstyled-list">
+                <li class="js-tablist__item">
+                    <a href="#id_first" id="label_id_first" class="js-tablist__link">Variant details
+                    <span class="js-tablist__item-has-focus" aria-hidden="true"></span></a>
+                </li>
+                <li class="js-tablist__item">
+                    <a href="#id_second" id="label_id_second" class="js-tablist__link">Conditions
+                    <span aria-hidden="true"></span></a>
+                </li>
+                <li class="js-tablist__item">
+                    <a href="#id_third" id="label_id_third" class="js-tablist__link">Gene(s)
+                    <span aria-hidden="true"></span></a>
+                </li>
+            </ul>
+            <div class="usa-width-three-fourths tabcontent_border">
+                <div id="id_first" class="js-tabcontent">
+                    <a target="_blank" href="/clinvar/docs/variation_report/#allele" class="usa-grid-full help-icon"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a>
+                    
+<div>
+    <h4 class="no-margin-top">GRCh38/hg38 7p22.3-q36.3(chr7:53985-159282531)x1</h4>
+    <dl class="dl-leftalign">
+        <dt><span>Allele ID</span></dt>
+        <dd>73088</dd>
+        <dt><span>Variant type</span></dt>
+        <dd>copy number loss</dd>
+        <dt><span>Variant length</span></dt>
+        <dd>
+            
+               
+               159,228,547 bp
+            
+        </dd>
+        <dt><span>Cytogenetic location</span></dt>
+        
+        
+        <dd>7p22.3-q36.3</dd>
+        
+                            
+       <dt><span>Genomic location</span></dt>
+                            
+        
+        <dd>7:
+            
+            53985-159282531
+            
+            <span class="link-padding-right">
+            (GRCh38)
+            </span>
+            
+            <a target="_blank" href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=&amp;assm=GCF_000001405.38&amp;from=53985&amp;to=159282531" class="link-padding">GRCh38</a>
+            
+            <a target="_blank" href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&amp;position=7%3A53985-159282531" class="link-padding">UCSC</a>
+            
+        </dd>
+        
+        <dd>7:
+            
+            53985-159075220
+            
+            <span class="link-padding-right">
+            (GRCh37)
+            </span>
+            
+            <a target="_blank" href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=&amp;assm=GCF_000001405.25&amp;from=53985&amp;to=159075220" class="link-padding">GRCh37</a>
+            
+            <a target="_blank" href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&amp;position=7%3A53985-159075220" class="link-padding">UCSC</a>
+            
+        </dd>
+        
+        <dd>7:
+            
+            149068-158767981
+            
+            <span class="link-padding-right">
+            (NCBI36)
+            </span>
+            
+            <a target="_blank" href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=&amp;assm=GCF_000001405.12&amp;from=149068&amp;to=158767981" class="link-padding">NCBI36</a>
+            
+            <a target="_blank" href="https://genome.ucsc.edu/cgi-bin/hgTracks?db=hg38&amp;position=7%3A149068-158767981" class="link-padding">UCSC</a>
+            
+        </dd>
+        
+                            
+        
+          <dt class="margin-top">HGVS</dt>
+          <dd class="margin-top">
+           
+           
+           <table class="hgvstable stickyheaders">
+            <thead>
+              <tr>
+                <th scope="col">Nucleotide</th>
+                <th scope="col">Protein</th>
+                <th scope="col">Molecular<br/>consequence</th>
+              </tr>
+            </thead>
+            <tbody>
+              
+                
+                
+                  <tr>
+                
+                <td><a target="_blank" href="https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.13?report=graph&amp;mk=g.(?_53985)_(159075220_?)del|NC_000007.13\:g.(?_53985)_(159075220_?)del|green">NC_000007.13:g.(?_53985)_(159075220_?)del</a></td>
+                <td></td>
+                <td>
+                  
+                </td>
+               </tr>
+              
+                
+                
+                  <tr>
+                
+                <td><a target="_blank" href="https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.14?report=graph&amp;mk=g.(?_53985)_(159282531_?)del|NC_000007.14\:g.(?_53985)_(159282531_?)del|green">NC_000007.14:g.(?_53985)_(159282531_?)del</a></td>
+                <td></td>
+                <td>
+                  
+                </td>
+               </tr>
+              
+                
+                
+                  <tr>
+                
+                <td><a target="_blank" href="https://www.ncbi.nlm.nih.gov/nuccore/NC_000007.12?report=graph&amp;mk=g.(?_149068)_(158767981_?)del|NC_000007.12\:g.(?_149068)_(158767981_?)del|green">NC_000007.12:g.(?_149068)_(158767981_?)del</a></td>
+                <td></td>
+                <td>
+                  
+                </td>
+               </tr>
+              
+            </tbody>
+           </table>
+           
+          </dd>
+    
+        
+
+
+        <dt><span>Protein change</span></dt>
+        <dd>
+            
+              -
+            
+        </dd>
+
+        
+        <dt><span>Other names</span></dt>
+        
+          <dd>-</dd>
+        
+        
+
+        
+
+        <dt class="hashelp" title="Sequence Position Deletion Insertion"><span>Canonical SPDI</span>
+         <span><a href="https://www.ncbi.nlm.nih.gov/variation/notation/" target="_blank"><span style="float: none;" class="fa fa-question-circle"></a></span></dt>
+        
+          <dd>-</dd>
+        
+        
+
+        <dt><span>Functional consequence</span></dt>
+        
+        <dd>-</dd>
+        
+
+        <dt><span>Global minor allele frequency (GMAF)</span></dt>
+        
+        <dd>-</dd>
+        
+        </br>
+        <dt><span>Allele frequency</span></dt>
+        
+        <dd>-</dd>
+        
+
+        <dt><span>Links</span></dt>
+                            
+        
+        <dd><a target="_blank" href="https://www.ncbi.nlm.nih.gov/dbvar/variants/nssv578163">dbVar: nssv578163</a></dd>
+        
+        <dd><a target="_blank" href="https://www.ncbi.nlm.nih.gov/dbvar/variants/nsv530963">dbVar: nsv530963</a></dd>
+        
+                            
+                            
+        
+          
+    </dl>
+</div>
+
+
+                </div>
+                <div id="id_second" class="js-tabcontent">
+                    <a target="_blank" href="/clinvar/docs/variation_report/#condition" class="usa-grid-full help-icon"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a>
+                    
+    <h4 class="no-margin-top">Aggregate interpretations per condition</h4>
+    <table class="stickyheaders usa-table-borderless table-top-border align-top">
+        <thead>
+            <tr>
+                <th scope="col">Interpreted condition</th>
+                <th scope="col">Interpretation</th>
+                <th scope="col">Number of submissions</th>
+                <th scope="col">Review status</th>
+                <th scope="col">Last evaluated</th>
+                <th scope="col">Variation/condition record</th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            <tr>
+                <td>
+                    
+                      
+                         
+                         <div>
+                         
+                         
+                         <a target="_blank" href="evidence/">See cases</a>
+                         
+                         </div>
+                      
+                    
+                </td>
+                <td>Pathogenic</td>
+                <td>1</td>
+                <td>criteria provided, single submitter</td>
+                <td class="nowrap">
+                    Aug 12, 2011
+                    
+                </td>
+                <td><a target="_blank" href="/clinvar/RCV000052250.4/">RCV000052250.4</a></td>
+            </tr>
+            
+        </tbody>
+    </table>
+    
+        <h4>Clinical features observed in individuals with this variant</h4>
+        <ul class="usa-unstyled-list phenotypes-list">
+            
+            <li><a target="_blank" href="http://www.human-phenotype-ontology.org/hpoweb/showterm?id=HP:0000062">Ambiguous genitalia</a></li>
+            
+        </ul>
+    
+
+
+                </div>
+                <div id="id_third" class="js-tabcontent">
+                    <a target="_blank" href="/clinvar/docs/variation_report/#gene" class="usa-grid-full help-icon"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a>
+                    
+<table class="stickyheaders gene-table">
+<thead>
+<tr>
+<th rowspan="2" class="left">Gene</th>
+<th rowspan="2">OMIM</th>
+<th colspan="2">ClinGen Gene Dosage Sensitivity Curation</th>
+<th rowspan="2">Variation viewer</th>
+<th colspan="2">Related variants</th>
+</tr>
+<tr class="nobold">
+<th>HI score<a target="_blank" href="/clinvar/docs/variation_report/#haploinsufficiency" class="usa-grid-full help-icon"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a></th>
+<th>TS score<a target="_blank" href="/clinvar/docs/variation_report/#triplosensitivity" class="usa-grid-full help-icon"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a></th>
+<th>Within gene</th>
+<th>All</th>
+</tr>
+</th>
+</thead>
+<tbody>
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/6469" target="_blank"><span>SHH</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/600725" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=SHH" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=SHH" target="_blank"><span>Little evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=SHH&amp;assm=GCF_000001405.38&amp;from=155799980&amp;to=155812463" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=SHH&amp;assm=GCF_000001405.25&amp;from=155595557&amp;to=155604966" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=SHH%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>115</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=SHH%5Bgene%5D"><span>201</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/26053" target="_blank"><span>AUTS2</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/607270" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=AUTS2" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=AUTS2" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=AUTS2&amp;assm=GCF_000001405.38&amp;from=69598475&amp;to=70793506" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=AUTS2&amp;assm=GCF_000001405.25&amp;from=69063904&amp;to=70257884" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=AUTS2%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>187</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=AUTS2%5Bgene%5D"><span>225</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/2006" target="_blank"><span>ELN</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/130160" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=ELN" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=ELN" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=ELN&amp;assm=GCF_000001405.38&amp;from=74027772&amp;to=74069907" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=ELN&amp;assm=GCF_000001405.25&amp;from=73442426&amp;to=73484236" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=ELN%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>351</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=ELN%5Bgene%5D"><span>504</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/2737" target="_blank"><span>GLI3</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/165240" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=GLI3" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=GLI3" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=GLI3&amp;assm=GCF_000001405.38&amp;from=41960949&amp;to=42237209" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=GLI3&amp;assm=GCF_000001405.25&amp;from=42000546&amp;to=42276617" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=GLI3%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>494</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=GLI3%5Bgene%5D"><span>520</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/3757" target="_blank"><span>KCNH2</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/152427" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=KCNH2" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=KCNH2" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=KCNH2&amp;assm=GCF_000001405.38&amp;from=150944956&amp;to=150978321" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=KCNH2&amp;assm=GCF_000001405.25&amp;from=150642043&amp;to=150675401" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=KCNH2%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>1617</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=KCNH2%5Bgene%5D"><span>1685</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/58508" target="_blank"><span>KMT2C</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/606833" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=KMT2C" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=KMT2C" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=KMT2C&amp;assm=GCF_000001405.38&amp;from=152134925&amp;to=152436642" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=KMT2C&amp;assm=GCF_000001405.25&amp;from=151832009&amp;to=152133089" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=KMT2C%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>174</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=KMT2C%5Bgene%5D"><span>266</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/3110" target="_blank"><span>MNX1</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/142994" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=MNX1" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=MNX1" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=MNX1&amp;assm=GCF_000001405.38&amp;from=157004853&amp;to=157010663" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=MNX1&amp;assm=GCF_000001405.25&amp;from=156797546&amp;to=156803346" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=MNX1%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>17</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=MNX1%5Bgene%5D"><span>103</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/5395" target="_blank"><span>PMS2</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/600259" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=PMS2" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=PMS2" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=PMS2&amp;assm=GCF_000001405.38&amp;from=5970925&amp;to=6009106" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=PMS2&amp;assm=GCF_000001405.25&amp;from=6012869&amp;to=6048736" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=PMS2%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>2571</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=PMS2%5Bgene%5D"><span>2632</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/8910" target="_blank"><span>SGCE</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/604149" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=SGCE" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=SGCE" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=SGCE&amp;assm=GCF_000001405.38&amp;from=94584980&amp;to=94656205" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=SGCE&amp;assm=GCF_000001405.25&amp;from=94214535&amp;to=94285520" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=SGCE%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>19</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=SGCE%5Bgene%5D"><span>215</span></a></span>
+  </td>
+</tr>
+
+
+
+<tr>
+  <td class="left">
+  
+  <a href="https://www.ncbi.nlm.nih.gov/gene/7291" target="_blank"><span>TWIST1</span></a>
+
+  </td>
+
+  <td>
+  <span><a href="http://www.omim.org/entry/601622" target="_blank"><span class="fa fa-external-link"></span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=TWIST1" target="_blank"><span>Sufficient evidence for dosage pathogenicity</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/ISCA/isca_gene.cgi?sym=TWIST1" target="_blank"><span>No evidence available</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=TWIST1&amp;assm=GCF_000001405.38&amp;from=19113047&amp;to=19117636" target="_blank"><span>GRCh38</span></a><br/><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=TWIST1&amp;assm=GCF_000001405.25&amp;from=19155090&amp;to=19157294" target="_blank"><span>GRCh37</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=TWIST1%5Bgene%5D+and+%22single+gene%22%5Bproperties%5D"><span>73</span></a></span>
+  </td>
+
+  <td>
+  <span><a href="/clinvar/?term=TWIST1%5Bgene%5D"><span>107</span></a></span>
+  </td>
+</tr>
+
+
+</tbody>
+</table>
+
+<br/>
+  
+There are 1676 more genes
+  
+ affected by this variant.
+  
+ See the full set of genes in
+    
+Variation Viewer 
+      (<span><a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=&amp;assm=GCF_000001405.38&amp;from=53985&amp;to=159282531" target="_blank"><span>GRCh38</span></a>
+, 
+  <a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=&amp;assm=GCF_000001405.25&amp;from=53985&amp;to=159075220" target="_blank"><span>GRCh37</span></a>
+, 
+  <a href="https://www.ncbi.nlm.nih.gov/variation/view/?chr=7&amp;q=&amp;assm=GCF_000001405.12&amp;from=149068&amp;to=158767981" target="_blank"><span>NCBI36</span></a></span>) and <span><a href="https://www.ncbi.nlm.nih.gov/projects/dbvar/clingen/region_search.cgi?loc=chr7:53985-159075220" target="_blank"><span>ClinGen Dosage Sensitivity Map</span></a></span>.
+
+
+                </div>
+            </div>
+        </div>
+        
+<div class="usa-grid-full">
+    <div class="usa-grid-full subheader-flex" id="assertion-list-title-bar">
+        <h3 class="full-flex">Submitted interpretations and evidence</h3>
+        <a class="no-flex" target="_blank" href="/clinvar/docs/variation_report/#submitted">
+            <span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span>
+        </a>
+    </div>
+    
+    <table class="stickyheaders usa-table-borderless align-top table-top-border" id="assertion-list">
+        <thead>
+            <tr>
+                <th scope="col">Interpretation<div class="smaller">(Last evaluated)</div></th>
+                <th scope="col">Review status<div class="smaller">(Assertion criteria)</div></th>
+                <th scope="col">Condition<div class="smaller">(Inheritance)</div></th>
+                <th scope="col">Submitter</th>
+                <th scope="col">Supporting information
+                    <div class="smaller">(<a href="evidence/" title="evidence details">See all</a>)</div></th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            
+            <tr class="origin-germline">
+                <td>
+                        Pathogenic
+                    
+                    <div class="smaller"></div>
+                    <div class="smaller">(Aug 12, 2011)</div>
+                </td>
+                <td>criteria provided, single submitter
+                    
+                      <div class="smaller">(<a target="_blank" href="https://www.ncbi.nlm.nih.gov/pubmed/21844811">Submitter&#39;s publication</a>)</div>
+                    
+                    
+                      <div class="smaller">Method: clinical testing</div>
+                    
+                </td>
+                <td>
+                    
+                        
+                        
+                        See cases
+                        <br />
+                        
+                    
+                    
+                    
+                    
+                    
+                    <div class="smaller">
+                        Allele origin:
+                        
+                            
+                                
+                                    not provided
+                                
+                            
+                        
+                    </div>
+                </td>
+                <td>
+                    
+                      <a href="/clinvar/submitters/319864/">ARUP Laboratories, Cytogenetics and Genomic Microarray,ARUP Laboratories</a>
+                    
+                    
+                    <div class="smaller">
+                    
+                    
+                    Accession: SCV000079599.4
+                    <br/>Submitted: (Jun 21, 2014)
+                    
+                    </div>
+                </td>
+                <td>
+
+
+<dl class="submit-evidence">
+<dt><a href="evidence/SCV000079599.4/" title="Evidence detailed - SCV000079599.4">Evidence details</a></dt>
+
+ 
+
+ 
+</dl>
+
+
+</td>
+            </tr>
+            
+            
+        </tbody>
+    </table>
+    
+    
+
+
+
+
+    
+
+    
+<span style="display: none;">
+<form name="pubmed-term" action="https://www.ncbi.nlm.nih.gov/pubmed" target="_blank" method="post">
+<input type="hidden" name="term" value=""/>
+</form></span>
+</div>
+
+  
+    
+      
+      
+    
+  
+
+
+
+        <div class="usa-grid-full">
+<h3 class="usa-width-two-thirds margin-top">Citations for this variant</h3>
+
+<table class="usa-table-borderless table-top-border">
+<tbody><td><td>There are no citations in ClinVar for this variation. If you know of citations for this variation, please consider submitting that information to ClinVar.</td></tr></tbody>
+</table>
+
+</div>
+
+        <div class="usa-grid-full">
+            <div class="usa-width-two-thirds last-updated">
+                <p>Record last updated Jun 22, 2020</p>
+            </div>
+            <div class="usa-width-one-third last-updated">
+                <a target="_blank" href="/clinvar/docs/variation_report/#dates" class="usa-grid help-icon"><span class="fa fa-question-circle"></span> <span class="usa-sr-only">Help</span></a>
+            </div>
+        </div>
+        
+    </main>
+</div>
+
+
+     <!-- ========== BEGIN FOOTER ========== -->
+ <footer id="ncbi-footer" class="usa-footer usa-footer-medium ncbi-footer" role="contentinfo" data-section="Footer">
+  <div class="icon-section">
+    <div class="usa-grid">
+		<div class="usa-width-one-whole">
+		<h3 class="usa-sr-only">Connect</h3>
+		<ul class="ncbi-inline-list icon-list">
+			<li><a id="footer_twitter" href="https://twitter.com/ncbi">Twitter</a></li>
+			<li><a id="footer_facebook" href="https://www.facebook.com/ncbi.nlm">Facebook</a></li>
+			<li><a id="footer_youtube" href="https://www.youtube.com/user/NCBINLM">YouTube</a></li>
+			<li><a id="footer_linkedin" href="https://www.linkedin.com/company/national-center-for-biotechnology-information-ncbi-">LinkedIn</a></li>
+			<li><a id="footer_github" href="https://github.com/ncbi">GitHub</a></li>
+		</ul>
+		<ul class="ncbi-inline-list icon-list icon-list-elastic">
+			<li class="li-blog"><a id="footer_blog" href="https://ncbiinsights.ncbi.nlm.nih.gov/">Blog</a></li>
+			<li class="li-support"><a id="footer_support" href="https://support.ncbi.nlm.nih.gov/">Support Center</a></li>
+		</ul>
+		</div>
+		</div>
+  </div>
+  <div class="usa-footer-secondary_section ncbi-section">
+    <div class="usa-grid">
+      <div class="usa-width-one-half ncbi">
+        <h3 class="ncbi-full-name">National Center for Biotechnology Information</h3>
+		<address>
+        <a id="google_maps" href="https://www.google.com/maps/place/8600+Rockville+Pike,+Bethesda,+MD+20894/@38.9959508,-77.101021,17z/data=!3m1!4b1!4m5!3m4!1s0x89b7c95e25765ddb:0x19156f88b27635b8!8m2!3d38.9959508!4d-77.0988323">
+        <span class="h-adr"> <span class="p-street-address break">8600 Rockville Pike</span>
+        <span class="p-locality">Bethesda</span>, <span class="p-region"> MD</span>  <span class="p-postal-code">20894</span> <span class="p-country-name usa-sr-only">USA</span> </span>
+		</a>
+		</address>
+        <ul class="ncbi-inline-list">
+			<li><a id="footer_about" href="https://www.ncbi.nlm.nih.gov/home/about/">About us</a></li>
+          <li><a id="footer_contact" href="https://www.ncbi.nlm.nih.gov/home/about/contact.shtml">Contact us</a></li>
+          <li><a id="footer_policies" href="https://www.ncbi.nlm.nih.gov/home/about/policies.shtml">Policies</a></li>
+          <li><a id="footer_foia" href="https://www.nih.gov/institutes-nih/nih-office-director/office-communications-public-liaison/freedom-information-act-office">FOIA</a></li>
+        </ul>
+      </div>
+      <div class="usa-width-one-half">
+      <div class="usa-grid-full">
+		<div class="usa-width-one-third">
+		<h4>Popular</h4>
+
+        <ul class="ncbi-unstyled-list">
+				<li><a id="footer_pubmed" href="https://www.ncbi.nlm.nih.gov/pubmed/">PubMed</a></li>
+				<li><a id="footer_pmc" href="https://www.ncbi.nlm.nih.gov/pmc/">PubMed Central</a></li>
+				<li><a id="footer_bookshelf" href="https://www.ncbi.nlm.nih.gov/books/">Bookshelf</a></li>
+				<li><a id="footer_pubchem" href="https://pubchem.ncbi.nlm.nih.gov">PubChem</a></li>
+				<li><a id="footer_gene" href="https://www.ncbi.nlm.nih.gov/gene/">Gene</a></li>
+				<li><a id="footer_blast" href="https://blast.ncbi.nlm.nih.gov">BLAST</a></li>
+				<li><a id="footer_nucleotide" href="https://www.ncbi.nlm.nih.gov/nucleotide/">Nucleotide</a></li>
+				<li><a id="footer_protein" href="https://www.ncbi.nlm.nih.gov/protein/">Protein</a></li>
+				<li><a id="footer_geo" href="https://www.ncbi.nlm.nih.gov/geo/">GEO</a></li>
+        </ul>
+
+			</div>
+		<div class="usa-width-one-third">
+			<h4>Resources</h4>
+			<ul class="ncbi-unstyled-list ncbi-undecorated-links">
+				  <li><a id="footer_literature" href="https://www.ncbi.nlm.nih.gov/home/literature/">Literature</a></li>
+				  <li><a id="footer_health" href="https://www.ncbi.nlm.nih.gov/home/health/">Health</a></li>
+				  <li><a id="footer_genomes" href="https://www.ncbi.nlm.nih.gov/home/genomes/">Genomes</a></li>
+				  <li><a id="footer_genes" href="https://www.ncbi.nlm.nih.gov/home/genes/">Genes</a></li>
+				  <li><a id="footer_proteins" href="https://www.ncbi.nlm.nih.gov/home/proteins/">Proteins</a></li>
+				  <li><a id="footer_chemicals" href="https://www.ncbi.nlm.nih.gov/home/chemicals/">Chemicals</a></li>
+			</ul>
+		</div>
+		<div class="usa-width-one-third">
+   <h4>Actions</h4>
+   <ul class="ncbi-unstyled-list">
+              <li><a id="footer_submit" href="https://www.ncbi.nlm.nih.gov/home/submit/">Submit</a></li>
+              <li><a id="footer_download" href="https://www.ncbi.nlm.nih.gov/home/download/">Download</a></li>
+              <li><a id="footer_learn" href="https://www.ncbi.nlm.nih.gov/home/learn/">Learn</a></li>
+              <li><a id="footer_develop" href="https://www.ncbi.nlm.nih.gov/home/develop/">Develop</a></li>
+              <li><a id="footer_analyze" href="https://www.ncbi.nlm.nih.gov/home/analyze/">Analyze</a></li>
+              <li><a id="footer_research" href="https://www.ncbi.nlm.nih.gov/research/">Research</a></li>
+   </ul>
+		  </div>
+		  </div>
+		  </div>
+    </div>
+	</div>
+     <div class="usa-footer-secondary_section gov-agencies">
+    <div class="usa-grid">
+    <div class="usa-width-one-whole">
+		<p>
+			<a id="footer_nlm" href="https://www.nlm.nih.gov/">NLM</a>
+			&ensp;|&ensp;
+			<a id="footer_nih" href="https://www.nih.gov/">NIH</a>
+			&ensp;|&ensp;
+			<a id="footer_hhs" href="https://www.hhs.gov/">HHS</a>
+			&ensp;|&ensp;
+			<a id="footer_usagov" href="https://www.usa.gov/">USA.gov</a>
+		</p>
+	 </div>
+	 </div>
+	</div>
+
+ </footer>
+ <!-- ========== END FOOTER ========== -->
+  <!-- javascript to inject NWDS meta tags. Note: value of nwds_version is updated by "npm version" command -->
+  <script type="text/javascript">
+    var nwds_version = "0.15.1";
+
+    var meta_nwds_ver = document.createElement('meta');
+    meta_nwds_ver.name = 'ncbi_nwds_ver';
+    meta_nwds_ver.content = nwds_version;
+    document.getElementsByTagName('head')[0].appendChild(meta_nwds_ver);
+
+    var meta_nwds = document.createElement('meta');
+    meta_nwds.name = 'ncbi_nwds';
+    meta_nwds.content = 'yes';
+    document.getElementsByTagName('head')[0].appendChild(meta_nwds);
+
+	var alertsUrl = "/core/alerts/alerts.js";
+	if (typeof ncbiBaseUrl !== 'undefined') {
+		alertsUrl = ncbiBaseUrl + alertsUrl;
+	}
+  </script>
+
+
+
+  
+    <!-- JavaScript -->
+    
+    <script src="/clinvar/static/django_uswds/uswds/js/uswds.js"></script>
+    
+  
+  
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  
+
+  
+    <script src="/clinvar/static/nwds/js/nwds.js" type="text/javascript"> </script>
+    <script src="/clinvar/static/nwds/js/header.js" type="text/javascript"> </script>
+    <script src="/clinvar/static/nwds/js/ncbipopup.js" type="text/javascript"> </script>
+    <script src="/clinvar/static/nwds/js/ncbiclearbutton.js" type="text/javascript"> </script>
+    <script src="/clinvar/static/nwds/js/override-uswds.js" type="text/javascript"> </script>
+    <script src="/clinvar/static/nwds/js/ncbifeedback.js" type="text/javascript"> </script>
+  
+
+
+  
+    
+    
+  <script type="text/javascript" src="https://www.ncbi.nlm.nih.gov/core/pinger/pinger.js"> </script>
+
+
+    
+    
+        <script type="application/javascript" src="/clinvar/static/clinvar_base/vendor/Accessible-Mega-Menu/jquery-accessibleMegaMenu.js"></script>
+        <script type="application/javascript" src="/clinvar/static/clinvar_base/accessible-mega-menu.js"></script>
+        <script type="text/javascript" src="/clinvar/static/nwds/js/vote-helpful.js" > </script>
+    
+
+    <script type="application/javascript">
+
+        (function( $ ) {
+            $( document ).ready(function(){
+                $('.fa-plus').click(function() {
+                    $(this).closest('tr').next('tr').toggle();
+                });
+                
+
+                var tabLItemsArrowSpans = $('li.js-tablist__item > a > span');
+                $('li.js-tablist__item').click(function() {
+                    tabLItemsArrowSpans.removeClass('js-tablist__item-has-focus');
+                    $(this).children().children().addClass('js-tablist__item-has-focus');
+                });
+
+                /*
+                 * for interpretations and evidence table filtering
+                 */
+                $('#origin-filter').change(function() {
+                    var val = $(this).val();
+                    var rows = $('#assertion-list tbody tr');
+                    if (val == "") {
+                        rows.show();
+                    }
+                    else {
+                        rows.filter(val).show();
+                        rows.not(val).hide();
+                    }
+                });
+
+            });
+        })( jQuery );
+
+    </script>
+    
+        <script type="application/javascript" src="/clinvar/static/variation/vendor/jquery-accessible-tabs-aria/jquery-accessible-tabs.js"></script>
+        <script type="text/javascript" src="/clinvar/static/variation/jquery.stickytableheaders.js"></script>
+        <script type="text/javascript" src="/clinvar/static/variation/extra.js"></script>
+        <script src="/clinvar/static/nwds/js/nwds.js"></script>
+        <script src="/clinvar/static/nwds/js/ncbipopup.js"></script>
+    
+    <script>
+        $(function(){
+            $($('header.ncbi-header').find('.usa-grid')[0]).removeClass('usa-grid').addClass('usa-grid-full');
+            $($('footer.ncbi-footer').find('.usa-grid')).removeClass('usa-grid').addClass('usa-grid-full');
+        });
+    </script>
+    <script>
+        $('.print-button').on('click', function() {
+            window.print();
+            return false;});
+    </script>
+    <script>
+        function citeFunction() {
+          /* Get the text field */
+          var copyText = document.getElementById("cite");
+
+          /* Select the text field */
+          copyText.select();
+
+          /* Copy the text inside the text field */
+          document.execCommand("Copy");
+
+          /* Alert the copied text
+          alert("Copied the text: " + copyText.value); */
+        }
+    </script>
+
+</body>
+</html>
